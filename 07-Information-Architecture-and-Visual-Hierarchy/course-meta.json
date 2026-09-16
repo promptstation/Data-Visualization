@@ -1,0 +1,24 @@
+{
+  "course_number": 7,
+  "course_title": "Information Architecture & Visual Hierarchy",
+  "folder": "07-Information-Architecture-and-Visual-Hierarchy",
+  "discipline_framing": "The art of organizing complex datasets into intuitive visual structures — Shneiderman's mantra, dashboard architecture, progressive disclosure, and navigation systems mastered as the structural backbone of data products",
+  "domain_short": "IA and hierarchy",
+  "audience": "Visualization designers, dashboard engineers, analytics-product designers, and data-team leads who must structure multi-dataset, multi-audience data products so users orient, navigate, and extract insight without training",
+  "sources": [
+    "Shneiderman's Visual Information-Seeking Mantra and the eight golden tasks of interface design for dynamic visual presentations, with the Plaisant lineage extensions",
+    "The Rosenfeld-Arango information-architecture canon (organization, labeling, navigation, and search systems) applied to data products",
+    "Few's dashboard design doctrine (Information Dashboard Design and Now You See It lineage) on glanceability, layout, and analytic arrangement",
+    "The visual-hierarchy tradition from graphic design (the Lohr-lineage and Tufte layout craft, proximity-alignment-contrast principles) integrated with the Gestalt literature",
+    "Nielsen Norman Group research on progressive disclosure, navigation, and analytics-UX usability findings",
+    "The card-sorting and IA evaluation methods literature (tree testing, first-click studies, wayfinding research)",
+    "Design-systems practice for data products (the enterprise dashboard-system and component-library documentation traditions)"
+  ],
+  "pitfalls": [
+    "Everything-important — flat visual weight across all elements destroying hierarchy so nothing guides the eye; the anti-mantra dashboard requiring users to build their own overview from raw panels",
+    "Disclosure-by-burial — hiding information so deep in navigation layers that findability collapses; progressive disclosure executed without scent or wayfinding support",
+    "Layout-by-accumulation — dashboards grown panel-by-panel without an organizing scheme, where proximity relationships imply nonexistent groupings and the grid has died",
+    "Detail-without-context — drill-downs that teleport users to specifics with no orientation back to the whole, breaking the mantra's zoom-and-filter continuity and stranding users",
+    "IA-skipped development — building views before answering the organization and labeling questions, so structure decisions get frozen into code and every later fix costs a rewrite"
+  ]
+}
