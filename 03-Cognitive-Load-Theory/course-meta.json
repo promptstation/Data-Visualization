@@ -1,0 +1,24 @@
+{
+  "course_number": 3,
+  "course_title": "Cognitive Load Theory for Dashboard Design",
+  "folder": "03-Cognitive-Load-Theory",
+  "discipline_framing": "The science of working-memory limits applied to information design — managing intrinsic, extraneous, and germane load so complex dashboards inform users without overwhelming or fatiguing them",
+  "domain_short": "Cognitive load",
+  "audience": "Dashboard and BI designers, analytics-product teams, and visualization engineers who must fit dense, decision-critical information inside the narrow bottleneck of human working memory",
+  "sources": [
+    "Sweller's cognitive load theory — the instructional-design foundation (intrinsic, extraneous, and germane load with the element-interactivity basis)",
+    "Baddeley's working-memory model (phonological loop, visuospatial sketchpad, central executive) and Cowan's revised capacity findings (the four-chunk limit)",
+    "Miller's magical number seven lineage with the chunking and recoding tradition",
+    "Mayer's multimedia learning principles (coherence, signaling, spatial-contiguity, temporal-contiguity, modality, redundancy) as the experimentally tested load-management toolkit",
+    "Paas-van Merrienboer load measurement tradition (subjective rating scales, task-performance triangulation) and NASA-TLX workload assessment",
+    "Stephen Few's dashboard design doctrine (glanceability, information density, chart-selection for monitoring) as the applied BI synthesis",
+    "Pirolli-Card information foraging theory for navigation-load and scent-following analysis"
+  ],
+  "pitfalls": [
+    "Treating load as only-about-quantity — element interactivity, not element count, drives intrinsic load: four interacting series can cost more than forty parallel ones",
+    "Optimizing extraneous load to zero while ignoring germane load — frictionless displays that teach nothing, leaving users permanently dependent on the designer's pre-chewing",
+    "Expertise-reversal blindness — scaffolding that helps novices (guides, annotations, step-by-step layering) becoming redundant load for experts, one design serving neither",
+    "Density panic — stripping legitimate information to reduce felt complexity, when the real fix is structure: chunking, alignment, and progressive disclosure carrying density at low load",
+    "Measuring load by asking designers — self-report from the display's authors is worthless; load evidence requires naive users, workload scales, and performance triangulation"
+  ]
+}
