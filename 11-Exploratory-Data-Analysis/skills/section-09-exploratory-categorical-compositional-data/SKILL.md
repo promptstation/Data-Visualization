@@ -1,0 +1,166 @@
+---
+name: section-09-exploratory-categorical-compositional-data
+description: Develop comprehensive, professional-level learning modules and training materials on categorical and Compositional Data — Parts, Wholes, and Aggregation Traps within Exploratory Data Analysis (EDA) for Visualization — investigate categorical and compositional structure through type-aware foundations (nominal-ordinal classification, cardinality regimes, frequency-proportion duality with denominator discipline, quality and ordinal-scale care), master composition displays (stacked systems with ordering conventions,.... Use this skill whenever the user asks to create, teach, or deepen training on categorical, compositional, parts, wholes, aggregation, traps, Exploratory data analysis, or requests workshops, lessons, curricula, job aids, or expert instruction in this area — even when the word “module” is never used.
+compatibility: Any environment that can write Markdown files; benefits from web research access for authoritative sources; no external tools or packages required.
+metadata:
+  author: Promptstation skill-building pipeline (Data Visualization course 11, section 9)
+  version: 1.0.0
+  category: professional-education
+---
+
+# Categorical and Compositional Data: Parts, Wholes, and Aggregation Traps — Professional Training
+
+## Mission
+
+Produce professional-grade learning modules and training materials on **categorical and Compositional Data: Parts, Wholes, and Aggregation Traps** within The investigative core of the data visualization specialist discipline — Tukey-lineage exploratory practice where visualization drives discovery: profiling, distribution reading, relationship hunting, outlier detection, and interactive exploration workflows that turn raw data into questions, patterns, and evidence.
+
+Subject scope: Covers the non-numeric investigation traditions where counting, proportioning, and hierarchy carry the analysis: the categorical-data foundations — the type-aware reading: the categorical-structure classification (the nominal-versus-ordinal distinction determining display-ordering freedom: the arbitrary-versus-meaningful-sequence semantics, the cardinality assessment from section 2's profiling: the few-many-and-high-cardinality regimes requiring different strategies, the hierarchy-and-membership structures: the nested-category and multi-label data patterns from the taxonomic traditions); the frequency-and-proportion duality (the count-versus-share reading decision: the absolute-magnitude versus relative-composition emphasis by question, the denominator-awareness discipline: the every-proportion-states-its-base obligation, the rare-category management: the other-grouping decisions with the explicit-threshold documentation); the categorical-quality issues (the inconsistent-label detection from section 2's audits: the case-variant-and-synonym merging decisions, the missing-as-category treatment: the explicit-unknown-level conventions versus silent exclusion); and the ordinal-scale care (the numeric-coding pitfalls: the treating-1-2-3-Likert-as-interval arithmetic hazards, the ordinal-appropriate summaries: the median-and-mode-and-distribution displays over means, the diverging-ordinal conventions: the negative-neutral-positive Likert displays from the survey traditions) as the foundation layer; the composition-display family — the part-to-whole systems: the stacked-bar systems (the stacked-absolute-and-percentage conventions: the total-and-composition dual reading, the segment-ordering decisions: the consistent-color-and-position discipline with the base-segment-at-bottom conventions, the many-segment readability collapse: the five-to-seven-component practical limits from the perception traditions); the part-to-whole alternatives (the treemap nested-rectangle displays: the hierarchical-composition reading with the area-accuracy caveats from the hierarchy traditions, the pie-and-donut controversy: the angle-comparison-inferiority evidence from the perception literature balanced against the single-proportion-emphasis strengths and the small-count acceptability, the waffle-and-unit-chart alternatives: the icon-array proportions for public communication, the marimekko-and-mosaic extensions: the two-dimensional-composition displays from section 5's mixed-type systems); the flow-and-transition compositions (the Sankey-and-alluvial displays: the flow-quantity-and-routing reading from the flow-visualization traditions, the transition-matrix heatmaps: the from-to-category movement for temporal categorical change, the funnel-and-conversion displays: the stage-drop compositions from the product-analytics contexts); and the composition-honesty discipline (the part-sums-to-whole verification: the rounding-and-other-category reconciliation checks, the base-shift awareness in percentage-stacked time series: the growing-total-masking-segment-decline trap, the composition-versus-magnitude separation: the paired-absolute-and-relative displays when both matter) as the composition layer; the many-category challenge — the scale strategies: the ranking-and-selection approaches (the top-n-with-other consolidation: the threshold-and-count decision frameworks, the sorted-bar ranking displays: the magnitude-ordering default with the alphabetical-and-categorical-logic exceptions, the long-tail visualization: the log-scale-frequency-and-rank-size displays revealing power-law structures from section 3's family recognition); the grouping-and-hierarchization (the category-clustering by frequency-or-similarity: the semantic-and-statistical grouping strategies, the hierarchical-drill-down patterns: the group-then-detail navigation from the progressive-disclosure traditions, the facet-by-category-group: the small-multiple partitioning for comparison); the text-and-high-cardinality methods (the token-and-phrase-frequency analysis as the categorical entry point: the simple-counting EDA of text fields, the word-frequency-distribution reading: the Zipf-law expectations from the power-law family, the category-extraction-from-text previews at awareness: the keyword-and-topic approaches connecting to the analytics traditions); and the many-category-display selections (the scrollable-and-paginated tables with inline bars: the hybrid numeric-graphic displays, the highlight-and-search interfaces: the find-specific-category interaction patterns from section 11's systems, the aggregated-overview-with-detail-on-demand compositions) as the scale layer; the cross-tabulation investigation — the joint categorical structure: the contingency-analysis displays (the two-way-table heatmaps with the row-column-total-margin conventions, the mosaic-plot residual-shading reading from section 5: the independence-deviation visualization, the association-strength measures: the chi-square-and-Cramér's-V summaries at practitioner depth with the sample-size-sensitivity caveats); the Simpson's-paradox discipline (the aggregation-reversal demonstration: the pooled-relationship-contradicting-every-subgroup canonical trap from the statistical tradition, the confounder-hunting protocol: the third-variable-stratification investigation when associations surprise, the stratified-display conventions: the facet-by-confounder views revealing the reversal mechanism); the three-way-and-beyond exploration (the faceted-mosaic-and-heatmap grids: the layered-stratification displays, the interaction-pattern-reading: the effect-modification identification across strata, the dimensionality-management: the focused-triple-investigation over exhaustive-crosses); and the categorical-temporal compositions (the stacked-area-and-streamgraph time displays: the evolving-composition reading with the baseline-sensitivity caveats from the temporal traditions, the category-share-over-time small multiples: the per-category-trend isolation displays, the cohort-and-vintage compositions: the entry-period-grouped evolution from section 8's panel methods) as the joint layer; the compositional-data awareness — the constant-sum constraints: the compositional-structure recognition (the parts-of-a-whole-with-fixed-total data: the budget-share, market-share, time-allocation, and percentage-composition domains where components sum to constant, the negative-correlation artifact: the forced-inverse-relationships between shares from the constant-sum constraint creating spurious associations); the ratio-and-log-ratio intuitions (the share-versus-absolute dual analysis discipline: the examining-both-numerator-and-denominator-movements, the log-ratio thinking at awareness: the compositional-data-analysis tradition from the Aitchison lineage for rigorous share analysis, the percentage-point-versus-percent-change confusion prevention: the change-communication clarity from the communication traditions); the composition-display selections for constant-sum data (the percentage-stacked-area-and-bar conventions with absolute companions, the ternary-and-simplex displays for three-component compositions at awareness: the triangle-plot traditions from the geological-and-chemical domains); and the compositional-honesty (the closure-problem acknowledgment: the interpreting-share-correlations-with-caution discipline, the total-change-context annotation: the growing-shrinking-whole framing for every share display) as the constraint layer; the categorical EDA workflow — the integrated protocol: the categorical-inventory sweep (the per-column frequency-concentration-cardinality battery from section 2's profiling: the systematic categorical census, the cross-tab-candidate selection: the domain-relevant-pair-and-triple prioritization for joint investigation); the category-relationship mapping (the association-matrix displays for many-categorical-variable sets: the categorical-correlation-analog heatmaps, the hierarchy-and-membership exploration: the category-overlap-and-nesting-structure investigation); the numeric-by-category investigation integration (the section 5 mixed-type protocols as the categorical-numeric bridge: the group-distribution comparisons, the category-as-confounder checking: the stratified-numeric-relationship verification from the Simpson discipline); and the categorical-findings documentation (the level-merge-and-other-grouping decisions recorded: the category-engineering log from section 14's reproducibility systems, the association-and-reversal findings inventory: the notable-structure shortlists for communication) as the workflow layer; and the section anti-patterns — the failure library: the pie-chart-proliferation using angle comparison for many-component compositions, remedied by the display-selection evidence and alternatives; the percentage-stacked-base-shift trap reading growing shares on shrinking totals as growth, remedied by the absolute-companion discipline; the unsorted-category-bars hiding rank structure in arbitrary order, remedied by the ordering-default conventions; the other-category-swallow burying meaningful rare categories in consolidated residue, remedied by the threshold-documentation and drill-down provisions; the ordinal-as-interval computing means over Likert codes, remedied by the ordinal-scale care; the Simpson-blindness trusting pooled associations across heterogeneous subgroups, remedied by the stratification protocol; the compositional-correlation-reification reading constant-sum negative correlations as real associations, remedied by the closure-awareness discipline; and the category-engineering-opacity merging and recoding levels without records, remedied by the decision-documentation obligations with detection methods as the diagnostic.
+
+Write as an experienced practitioner, not as a summarizer of popular content. Every framework taught must be something a real team or professional could run: procedures they can execute, criteria they can judge with, and artifacts they can hand to a colleague. Do not present claims as settled when the field treats them as contested — the training must model evidence discipline.
+
+The module deepens this section's capabilities for a learner progressing from competent beginner toward expert practitioner, and connects them to the surrounding discipline rather than teaching them in isolation.
+
+## Use Cases
+
+### Full learning module
+When asked for a comprehensive module on this topic:
+1. Scope audience, prerequisites, duration, and discipline mix.
+2. Build the evidence base from the authoritative sources below.
+3. Write the full progressive module from the template.
+4. Include all exercises with model solutions and all gate checklists.
+5. Validate against the gate below before delivery.
+
+### Condensed workshop
+When asked for a one-day or half-day workshop:
+1. Prioritize the units that match where the group is stuck.
+2. Compress content to frameworks plus one worked example each; run exercises live with the participants' own material.
+3. Leave behind the relevant checklists as job aids.
+
+### Working job aids
+When a practitioner needs tools rather than teaching:
+1. Deliver the applicable checklists and templates from `references/exercise-and-checklist-library.md`, customized to their situation.
+2. Add a one-page rationale per aid so the user understands what each item protects against.
+
+## Core Output Requirements
+
+- Deliverables are Markdown documents: the module, exercise sets with model solutions, and checklists. No placeholders, no "TODO" sections.
+- Ground content in authoritative sources:
+- The Tukey exploratory-data-analysis tradition (the EDA canon: five-number summaries, stem-and-leaf and boxplot inventions, resistant statistics, and the exploratory-versus-confirmatory philosophy)
+- The visual-data-analysis literature (the Cleveland-McGill graphical perception lineage, the Tukey-boxplot family extensions, the modern EDA workflow traditions from Wickham-lineage tidyverse practice)
+- The interactive-exploration research (the Shneiderman dynamic-query and brushing-linking traditions from the information-visualization canon, the visual-analytics reasoning frameworks)
+- The statistical-computing documentation (the pandas, R, NumPy, and Observable Plot ecosystem materials for practical EDA computation)
+- The data-quality and profiling literature (the missing-data taxonomies, anomaly-detection traditions, and validation-tooling documentation)
+- The time-series and spatial exploration traditions (the decomposition, autocorrelation, and geostatistical EDA methods at practitioner depth)
+- The reproducible-analysis literature (the notebook, literate-programming, and workflow-documentation traditions connecting exploration to communication)
+- Maintain an evidence ledger while writing: every factual claim or number is either sourced, flagged as disputed/popular account, or omitted. Never invent statistics, studies, or citations.
+- Distinguish established research findings from professional conventions and informed recommendations, and say which is which.
+- Explain each specialized term in clear language on first use.
+
+## Module Development Workflow
+
+### Phase 1 — Scope and audience
+Determine delivery mode (full module / workshop / job aids), learner background, duration, and whether learners bring their own material to work on. Record these choices; they drive depth allocation in Phase 3.
+
+### Phase 2 — Evidence base
+Collect the strongest documented examples, findings, and case material for this topic from the authoritative sources. Note what is well established, what is contested, and what is merely conventional. Verify any numbers before publishing them.
+
+### Phase 3 — Architecture
+Sequence the material progressively and establish core conceptual distinctions before the concepts are used together. Suggested unit sequence:
+
+1. Unit 1
+
+### Phase 4 — Write the units
+For each unit follow the internal structure: teach the framework → show a worked example (weak / improved / professional versions where useful) → connect back to the surrounding discipline → state trade-offs explicitly. Use `references/domain-content-map.md` as the unit-by-unit source of scope, bullets, and evidence guidance.
+
+### Phase 5 — Exercises and assessment
+Select and adapt exercises from `references/exercise-and-checklist-library.md`. Adapt scenarios to the audience's domain. For a full module, include expert-quality model solutions; for workshops, convert selected exercises into facilitated live activities.
+
+### Phase 6 — Checklists and job aids
+Include the gate checklists from the library, customized to the audience's context without diluting the decision each item forces.
+
+### Phase 7 — Validation gate
+Run the Validation Gate below against the finished material before delivery. Fix failures; do not ship and caveat.
+
+## Module Template
+
+ALWAYS use this exact template for full modules:
+
+```markdown
+# Categorical and Compositional Data: Parts, Wholes, and Aggregation Traps [— audience/context subtitle]
+
+## Who This Module Is For
+## Prerequisites
+## Learning Outcomes
+## Unit 1 — Unit 1
+## Integrated Capstone
+## Practical Exercises
+## Professional Checklists
+## Sources and Evidence Notes
+```
+
+Each unit internally follows: framework → worked example(s) → disciplinary connection → trade-offs.
+
+## Writing Standards
+
+Throughout the material, prioritize language that is:
+
+* Precise without becoming jargon-heavy
+* Practical without discarding rigor
+* Honest about limitations and contested findings without being defeatist
+* Concrete — anchored in real cases, real artifacts, and verifiable numbers
+* Progressive from fundamentals to expert judgment
+
+Where a recommendation depends on context, explain the trade-off rather than presenting an absolute rule.
+
+## Validation Gate
+
+Before delivery, verify:
+
+### Content
+- all units present with correct depth for the scoped audience
+- core distinctions established before they are used together
+- every taught capability has a usable framework, not just an explanation
+
+### Evidence
+- every claim and number is sourced or explicitly flagged as disputed
+- no invented statistics, studies, dates, or citations anywhere
+- sources are authoritative; no SEO-farm or marketing claims presented as fact
+
+### Capability
+- each absorbed capability (2 in this section) is covered by teaching content AND at least one exercise with evaluation criteria
+- exercises have model solutions in full-module mode
+
+### Artifacts
+- all gate checklists included and actionable as written
+- template structure followed; no placeholder sections
+
+### Quality
+- trade-offs stated wherever recommendations are context-dependent
+- terminology explained on first use
+- reads as practitioner-written, not generic AI advice
+
+## Anti-Patterns
+
+Avoid: Confirmatory masquerading as exploratory — arriving with the conclusion, cherry-picking the slices and scales that support it, and dressing the result in EDA language instead of running honest open-ended investigation; Summary-statistic blindness — trusting means and correlations before looking at distributions, so bimodality, skew, outliers, and Anscombe-quartet-style structural differences pass undetected; Missing-data amnesia — profiling values while ignoring absence: the NaN patterns, collection gaps, and silent nulls that carry more signal than the numbers themselves; Tool-driven exploration — letting dashboard defaults and library conveniences decide the questions, producing the same views every time instead of fitting the investigation to the data's structure; The undiscovered discovery — finding real patterns but losing them to unreproducible notebook chaos, unannotated screenshots, and workflows no colleague can rerun or trust; exercises without evaluation criteria; modules that stop at inspiration without a single decision the learner can now make better; and any content that overstates certainty beyond what the evidence supports.
+
+## Decision Heuristic
+
+When allocating depth under time or length limits, ask:
+
+1. Where will this audience actually stall in practice?
+2. Which unit protects the most value if taught well?
+3. Can the learner run the framework tomorrow without me?
+4. Is every example doing work a plain sentence could not?
+5. What would a skeptical domain expert say about this material?
+
+If two topics compete for space, keep the one that changes a decision.
+
+## Final Principle
+
+The goal is not more content about Exploratory data analysis. The goal is that a practitioner could take this material and perform: Investigate categorical and compositional structure through type-aware foundations (nominal-ordinal classification, cardinality regimes, frequency-proportion duality with denominator discipline, quality and ordinal-scale care), master composition displays (stacked systems with ordering conventions, treemap-pie-waffle-mosaic alternatives with evidence-based selection, Sankey-transition-funnel flows, part-sum honesty with base-shift awareness), handle many categories (top-n-ranking-long-tail strategies, grouping-hierarchy-facet approaches, text frequency entry points with Zipf expectations, hybrid display selections), explore cross-tabulations (contingency heatmaps and mosaic residuals with association measures, Simpson's paradox stratification protocol, three-way faceted investigation, categorical-temporal compositions), respect compositional constraints (constant-sum recognition with spurious-correlation artifacts, share-absolute dual analysis with log-ratio awareness, ternary displays, closure honesty), run integrated workflows (categorical censuses, association mapping, numeric-by-category bridges, documentation inventories), and avoid pie-proliferation, base-shift traps, unsorted bars, other-swallowing, ordinal-interval errors, Simpson blindness, correlation reification, and engineering opacity failures — with the same evidence discipline the field's best practitioners use. The module must function simultaneously as a learning resource, a practical reference, and a working methodology.
+
+## Bundled References
+
+Read `references/domain-content-map.md` during Phases 3–4 for the unit-by-unit content map: scope statements, teaching bullets, evidence anchors, and trade-off prompts.
+
+Read `references/exercise-and-checklist-library.md` during Phases 5–6 for the ready-to-adapt exercises and the professional gate checklists.

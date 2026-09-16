@@ -1,0 +1,24 @@
+{
+  "course_number": 11,
+  "course_title": "Exploratory Data Analysis (EDA) for Visualization",
+  "folder": "11-Exploratory-Data-Analysis",
+  "discipline_framing": "The investigative core of the data visualization specialist discipline — Tukey-lineage exploratory practice where visualization drives discovery: profiling, distribution reading, relationship hunting, outlier detection, and interactive exploration workflows that turn raw data into questions, patterns, and evidence",
+  "domain_short": "Exploratory data analysis",
+  "audience": "Data visualization specialists, analysts, and data-facing engineers who build charts daily but need the systematic EDA craft to discover what the data actually contains before deciding what to show — moving from chart production to data investigation",
+  "sources": [
+    "The Tukey exploratory-data-analysis tradition (the EDA canon: five-number summaries, stem-and-leaf and boxplot inventions, resistant statistics, and the exploratory-versus-confirmatory philosophy)",
+    "The visual-data-analysis literature (the Cleveland-McGill graphical perception lineage, the Tukey-boxplot family extensions, the modern EDA workflow traditions from Wickham-lineage tidyverse practice)",
+    "The interactive-exploration research (the Shneiderman dynamic-query and brushing-linking traditions from the information-visualization canon, the visual-analytics reasoning frameworks)",
+    "The statistical-computing documentation (the pandas, R, NumPy, and Observable Plot ecosystem materials for practical EDA computation)",
+    "The data-quality and profiling literature (the missing-data taxonomies, anomaly-detection traditions, and validation-tooling documentation)",
+    "The time-series and spatial exploration traditions (the decomposition, autocorrelation, and geostatistical EDA methods at practitioner depth)",
+    "The reproducible-analysis literature (the notebook, literate-programming, and workflow-documentation traditions connecting exploration to communication)"
+  ],
+  "pitfalls": [
+    "Confirmatory masquerading as exploratory — arriving with the conclusion, cherry-picking the slices and scales that support it, and dressing the result in EDA language instead of running honest open-ended investigation",
+    "Summary-statistic blindness — trusting means and correlations before looking at distributions, so bimodality, skew, outliers, and Anscombe-quartet-style structural differences pass undetected",
+    "Missing-data amnesia — profiling values while ignoring absence: the NaN patterns, collection gaps, and silent nulls that carry more signal than the numbers themselves",
+    "Tool-driven exploration — letting dashboard defaults and library conveniences decide the questions, producing the same views every time instead of fitting the investigation to the data's structure",
+    "The undiscovered discovery — finding real patterns but losing them to unreproducible notebook chaos, unannotated screenshots, and workflows no colleague can rerun or trust"
+  ]
+}
