@@ -1,0 +1,24 @@
+{
+  "course_number": 12,
+  "course_title": "Dimensionality Reduction Techniques for Visualization",
+  "folder": "12-Dimensionality-Reduction-Techniques",
+  "discipline_framing": "The embedding science of the data visualization specialist discipline — PCA through t-SNE and UMAP mastered as visualization instruments: the mathematics of neighbor preservation, the parameter craft, the artifact literacy, and the evaluation discipline that separate trustworthy embeddings from beautiful fictions",
+  "domain_short": "Dimensionality reduction",
+  "audience": "Visualization specialists and analysts who run t-SNE and UMAP by rote and need the mechanistic understanding to choose methods, tune parameters, detect artifacts, validate structure, and communicate embeddings honestly rather than shipping scatter plots that lie",
+  "sources": [
+    "The dimensionality-reduction canon (the PCA-MDS-Isomap-LLE-spectral-embedding lineage from the manifold-learning literature)",
+    "The t-SNE primary literature (the van der Maaten-Hinton stochastic-neighbor-embedding tradition with the Barnes-Hut and FIt-SNE scaling extensions)",
+    "The UMAP primary literature (the McInnes-Healy-Melville uniform-manifold-approximation tradition with its fuzzy-simplicial-set foundations)",
+    "The neighbor-graph and manifold assumption foundations (the kNN-graph, local-linearity, and geodesic-distance traditions underlying modern methods)",
+    "The embedding-evaluation literature (the trustworthiness-continuity, procrustes-alignment, and stability-assessment traditions from the visualization research canon)",
+    "The visualization-research critique tradition (the how-to-use-t-SNE-effectively guidance, the artifact-and-misinterpretation studies from the EGD-lineage literature)",
+    "The implementation ecosystem documentation (the scikit-learn, umap-learn, openTSNE, and GPU-accelerated library materials for practical computation)"
+  ],
+  "pitfalls": [
+    "Cluster-geometry overreading — measuring distances between t-SNE or UMAP clusters, comparing cluster sizes and densities, and reporting embedding-space quantities the algorithms never promised to preserve",
+    "Parameter roulette — running defaults once, or worse, sweeping perplexity and n_neighbors until the picture matches the hoped-for story, with no sensitivity documentation",
+    "Single-run trust — treating one stochastic embedding as ground truth when seed variation produces materially different layouts, skipping stability assessment entirely",
+    "Method monoculture — reaching for t-SNE or UMAP for every problem, ignoring when PCA, MDS, or hierarchical structure better serves the analytic question",
+    "Preprocessing amnesia — embedding raw, unscaled, outlier-ridden, or badly normalized data and blaming the algorithm for garbage layouts the inputs guaranteed"
+  ]
+}
