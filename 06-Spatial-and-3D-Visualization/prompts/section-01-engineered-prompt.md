@@ -1,0 +1,65 @@
+# STEP 2 — Engineered Prompt for Section 1 (Spatial & 3D Visualization: GIS, Mapbox, Leaflet, Three.js)
+
+Produced by applying `_pipeline/step1-reusable-prompt.md` to Section 1 of
+the Spatial & 3D Visualization: GIS, Mapbox, Leaflet, Three.js curriculum outlook. This prompt is the task input for Step 4
+skill creation (per Skill Building.md).
+
+---
+
+RESULT:
+
+Develop a comprehensive, professional-level learning module on **“Foundations: Spatial Thinking, Cartographic Lineage, and the Geospatial Web Stack”** as the opening foundation of a curriculum in Geospatial and three-dimensional visualization engineering — GIS fundamentals, web-mapping stacks (Leaflet, Mapbox/MapLibre), and Three.js mastered for representing geographic data and complex multidimensional structures. Introduce the discipline and its stack: spatial data defined — the geographic dimension of information (the location-attached records: points, lines, polygons, fields, and trajectories carrying the where alongside the what, the spatial-relationship vocabulary — the adjacency, containment, proximity, and network-connectivity relations that spatial analysis exploits, and the why-maps argument: the human visual system's extraordinary spatial-processing capability making location a high-bandwidth encoding channel — the position channel's accuracy-hierarchy primacy from the perceptual disciplines applied to geography); the cartographic lineage — the design tradition: the map-as-argument insight (every map a designed reduction of reality — the generalization decisions: selection, simplification, classification, symbolization that constitute cartography), the classic map-anatomy (the data layers, the base-map context, the legend, scale bar, north arrow, and attribution as the required furniture), and the scale-and-generalization doctrine (the zoom-dependent detail convention — the city-versus-country rendering levels, the cartographic-scale hierarchy) as the design foundation the web stack implements; the coordinate-reality primer — the fundamental frame: the geographic-coordinate concept (the latitude-longitude angular system on an ellipsoidal earth — the WGS84 datum as the GPS standard), the projection necessity (the impossible-sphere-to-plane flattening — the distortion trade-offs: area, shape, distance, direction preservation choices), the Web-Mercator convention (the EPSG:3857 universal web-map projection — its area distortion at high latitudes and the why-every-tile-looks-like-this explanation) as the orientation previewing section 2's depth; the web-mapping stack map — the technology landscape: the tile architecture (the raster-tile tradition — the pre-rendered 256-pixel image pyramids, the vector-tile revolution — the client-side-rendered geometry with the style-flexibility advantage, the z-x-y tile-coordinate and pyramid structure), the library tiers (the Leaflet raster-map simplicity, the MapLibre-Mapbox-GL vector-rendering power, the deck.gl massive-data overlay layer, the OpenLayers enterprise-GIS breadth, the Cesium globe-and-3D specialization), the data-service ecosystem (the tile providers, geocoders, routing engines, and spatial databases) and the OSM data commons (the OpenStreetMap collaborative database — the license and attribution obligations) as the territory map; the 3D-visualization position — the second frontier: the 3D-uses-in-data-visualization distinction (the genuinely-spatial 3D — the terrain, buildings, and volumetric fields where the third dimension IS the data; the geographic-globe rendering — the planetary-scale context; the abstract-3D data display — the 3D scatter and network layouts with their documented perceptual problems; the decorative-3D temptation — the extruded bar charts and perspective pie charts that the honesty discipline forbids) as the 3D taxonomy previewing sections 9-11; the GIS-versus-cartography-versus-visualization distinction — the discipline boundaries: the GIS analysis core (the spatial operations — the buffers, joins, overlays, and network analysis: computation on geography), the cartographic craft (the map communication design), and the visualization engineering (the interactive web rendering systems) as three overlapping skill sets this course unifies for the web practitioner; the spatial-data-lifecycle preview — the pipeline view: acquisition (the OSM extracts, government open data, GPS and sensor streams, geocoding address-to-coordinate conversion), processing (the format conversion, projection transformation, simplification and generalization, spatial indexing), rendering (the tile and library stacks), and interaction-analysis (the querying, filtering, and spatial computation on live data) as the end-to-end flow the sections populate; the honest-mapping ethics — the professional frame: the distortion-awareness obligation (the projection area-lies, the classification-scheme influence, the base-map context effects on data reading), the attribution-and-license compliance (the OSM and provider credit requirements — the legal and ethical data-use norms), and the map-power recognition (the gerrymandering and propaganda-map lineage — the boundary-drawing and color-classification persuasion potential demanding the ethical-design stance) as the integrity foundation; the tooling-environment orientation — the practice setup: the browser-based mapping (the Leaflet-MapLibre JavaScript workflow), the data-preparation tools (the QGIS desktop-GIS literacy at awareness, the mapshaper-geojson-turf command-line and library tools, the OSM data-extraction services), and the notebook-prototyping environments (the Observable-Kepler-Jupyter spatial workflows) as the practitioner workbench; the performance-and-scale preview — the engineering reality: the spatial-data volumes (the million-point GPS traces, the national-boundary polygon complexities, the city-building footprints) demanding the tiling, simplification, and GPU-rendering strategies from the graphics-APIs discipline, the mobile-map expectations (the touch-gesture fluidity, the offline-tile considerations) as the constraint context; the application-landscape — the domain survey: the location-intelligence products (the logistics and fleet tracking, the real-estate and site-selection analytics, the field-service operations), the civic-and-journalism mapping (the election and census choropleths, the infrastructure and environment stories), the scientific-spatial display (the climate and geology fields, the epidemiology surveillance maps, the movement ecology), and the 3D-data experiences (the digital twins, the volumetric and simulation rendering) as the career-context library; and the course map from coordinates and projections through data formats, Leaflet and MapLibre stacks, thematic mapping, point-density rendering, spatial analysis, Three.js foundations, 3D-data representation, terrain-globe rendering, navigation interaction, performance engineering, design-accessibility, and the capstone spatial system. The module should assume the learner is progressing from competent beginner toward expert practitioner, and should function simultaneously as a learning resource, a practical reference, and a working methodology.
+
+Convert each of the following capabilities the learner must gain into explicit “Teach how to” treatment with a practical framework the learner could use on a real project, not merely theory:
+
+* Teach how to frame spatial data through location-attached record types and spatial-relationship vocabulary grounded in the position channel's perceptual primacy.
+
+* Teach how to articulate the cartographic lineage (map-as-argument generalization decisions.
+
+* Teach how to map anatomy, scale-generalization doctrine) and coordinate fundamentals (WGS84 lat-lon, projection trade-offs, Web-Mercator convention).
+
+* Teach how to map the web-mapping stack (raster-vector tile architectures, library tiers, data services, OSM commons) with the 3D taxonomy (genuine-spatial, globe.
+
+* Teach how to abstract, decorative).
+
+* Teach how to distinguish GIS-cartography-visualization discipline boundaries across the spatial-data lifecycle.
+
+* Teach how to adopt honest-mapping ethics (distortion awareness, attribution compliance.
+
+* Teach how to map-power recognition) with the practitioner tooling and application landscape oriented.
+
+Use numerous realistic examples throughout the module, drawn from professional practice in Geospatial and three-dimensional visualization engineering — GIS fundamentals, web-mapping stacks (Leaflet, Mapbox/MapLibre), and Three.js mastered for representing geographic data and complex multidimensional structures. For each important principle, show weak, improved, and professional-level versions of the same work where useful.
+
+Include practical exercises that require the learner to:
+
+1. Frame spatial data through location-attached record types and spatial-relationship vocabulary grounded in the position channel's perceptual primacy, applied to a realistic scenario provided with the exercise.
+
+2. Articulate the cartographic lineage (map-as-argument generalization decisions, applied to a realistic scenario provided with the exercise.
+
+3. Map anatomy, scale-generalization doctrine) and coordinate fundamentals (WGS84 lat-lon, projection trade-offs, Web-Mercator convention), applied to a realistic scenario provided with the exercise.
+
+4. Map the web-mapping stack (raster-vector tile architectures, library tiers, data services, OSM commons) with the 3D taxonomy (genuine-spatial, globe, applied to a realistic scenario provided with the exercise.
+
+5. Abstract, decorative), applied to a realistic scenario provided with the exercise.
+
+6. Distinguish GIS-cartography-visualization discipline boundaries across the spatial-data lifecycle, applied to a realistic scenario provided with the exercise.
+
+7. Adopt honest-mapping ethics (distortion awareness, attribution compliance, applied to a realistic scenario provided with the exercise.
+
+8. Map-power recognition) with the practitioner tooling and application landscape oriented, applied to a realistic scenario provided with the exercise.
+
+9. Integrate the full section: take one realistic problem in Spatial and 3D through every capability above as a coherent capstone deliverable.
+
+For each exercise, provide the scenario, objective, constraints, expected deliverable, evaluation criteria, and an expert-quality example solution where appropriate.
+
+Structure the material progressively: establish the fundamental concepts and distinctions of this section first, then move toward advanced professional application, showing how the concepts interact only after each is clear on its own.
+
+Use professional terminology from Geospatial and three-dimensional visualization engineering — GIS fundamentals, web-mapping stacks (Leaflet, Mapbox/MapLibre), and Three.js mastered for representing geographic data and complex multidimensional structures where relevant, but explain each specialized term in clear language on first use. Do not make the material sound like generic AI-generated advice; it should read as if written by an experienced practitioner.
+
+Research the subject using high-quality professional and academic sources. Prioritize authoritative sources such as The EPSG registry, PROJ documentation, and geodesy references for coordinate-reference-system and projection foundations; The GeoJSON (RFC 7946), TopoJSON, and Mapbox Vector Tile specifications with the OGC standards family context; Leaflet and MapLibre GL JS / Mapbox GL JS official documentation, tutorials, and style-specification references; Three.js documentation and manual with the WebGL-scene-graph lineage materials; The cartographic-design canon at practitioner depth (the thematic-mapping, choropleth-classification, and map-color traditions from the Robinson-Brewer lineage including ColorBrewer); Tufte's graphical-integrity doctrine and the documented 3D-chart distortion research for the spatial-honesty discipline; The OpenStreetMap ecosystem documentation (tile servers, data model, attribution requirements) and deck.gl geospatial-layer materials. Avoid relying on low-quality SEO articles, content farms, or unsupported “best practice” claims; distinguish established research findings from professional conventions and informed recommendations, and never invent statistics or citations.
+
+Where a recommendation depends on context, explicitly explain the trade-off rather than presenting it as an absolute rule.
+
+End the module with actionable professional checklists — a frame-spatial-data-through checklist, a articulate-the-cartographic-lineage checklist, a map-anatomy-scale-generalization checklist, a map-the-web-mapping checklist, a abstract-decorative checklist — that a practitioner could actually use before real-world delivery.
+
+The final result should be comprehensive enough to serve as an advanced professional training module, organized clearly enough that a learner can study it progressively and apply each concept in practical work.

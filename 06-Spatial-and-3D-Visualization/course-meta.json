@@ -1,0 +1,24 @@
+{
+  "course_number": 6,
+  "course_title": "Spatial & 3D Visualization: GIS, Mapbox, Leaflet, Three.js",
+  "folder": "06-Spatial-and-3D-Visualization",
+  "discipline_framing": "Geospatial and three-dimensional visualization engineering — GIS fundamentals, web-mapping stacks (Leaflet, Mapbox/MapLibre), and Three.js mastered for representing geographic data and complex multidimensional structures",
+  "domain_short": "Spatial and 3D",
+  "audience": "Visualization engineers, GIS analysts moving to the web, and front-end developers building location-intelligence products, spatial dashboards, and 3D data experiences who need both cartographic rigor and modern rendering-stack fluency",
+  "sources": [
+    "The EPSG registry, PROJ documentation, and geodesy references for coordinate-reference-system and projection foundations",
+    "The GeoJSON (RFC 7946), TopoJSON, and Mapbox Vector Tile specifications with the OGC standards family context",
+    "Leaflet and MapLibre GL JS / Mapbox GL JS official documentation, tutorials, and style-specification references",
+    "Three.js documentation and manual with the WebGL-scene-graph lineage materials",
+    "The cartographic-design canon at practitioner depth (the thematic-mapping, choropleth-classification, and map-color traditions from the Robinson-Brewer lineage including ColorBrewer)",
+    "Tufte's graphical-integrity doctrine and the documented 3D-chart distortion research for the spatial-honesty discipline",
+    "The OpenStreetMap ecosystem documentation (tile servers, data model, attribution requirements) and deck.gl geospatial-layer materials"
+  ],
+  "pitfalls": [
+    "Projection illiteracy — mixing coordinate systems silently (WGS84 lat-lon treated as Web-Mercator pixels), producing offset, stretched, or area-distorted maps without any error message",
+    "Choropleth classification carelessness — quantile versus equal-interval versus manual breakpoints chosen without distribution analysis, or raw-count shading on unequal areas producing population-density lies",
+    "3D-for-its-own-sake — extruding and perspectivizing data that reads more accurately in 2D, where occlusion, perspective foreshortening, and depth ambiguity destroy value comparison",
+    "Tile-and-attribution compliance blindness — violating provider terms, omitting required attribution, or hammering tile servers without caching, risking both legal and infrastructure failure",
+    "Scale-and-generalization mismatch — rendering city-level geometry at country zoom (unreadable dense sludge) or vice versa (missing context), ignoring level-of-detail cartographic convention"
+  ]
+}
