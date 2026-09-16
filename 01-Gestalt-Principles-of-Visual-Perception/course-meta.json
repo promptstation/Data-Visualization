@@ -1,0 +1,24 @@
+{
+  "course_number": 1,
+  "course_title": "Gestalt Principles of Visual Perception",
+  "folder": "01-Gestalt-Principles-of-Visual-Perception",
+  "discipline_framing": "Perceptual psychology applied to data visualization — how the brain automatically groups shapes, identifies patterns, and recognizes anomalies, and how designers engineer those automatic processes deliberately",
+  "domain_short": "Gestalt perception",
+  "audience": "Data visualization designers, dashboard and BI developers, information designers, and front-end engineers who must make graphics that the visual system parses instantly and correctly — without conscious effort from the viewer",
+  "sources": [
+    "Wertheimer, Koffka, and Kohler's classical Gestalt psychology (laws of perceptual organization, Pragnanz) as the founding tradition",
+    "Palmer, Rock, and Ehrenstein's modern re-analysis of gestalt principles (the new gestalt grouping factors: convexity, symmetry, parallelism, common-region research)",
+    "Ware, Information Visualization: Perception for Design — the applied-perception canon bridging vision science and interface design",
+    "Treisman's feature-integration theory and the visual-search literature (pop-out, conjunction search, anomaly detection)",
+    "Cleveland and McGill's graphical-perception experiments (the elementary-task accuracy hierarchy) as the quantitative complement to grouping theory",
+    "Tufte's information-design doctrine (data-ink, chartjunk, small multiples) read through perceptual-grouping lenses",
+    "Nielsen Norman Group and applied-UX research on proximity, similarity, and common-region effects in interface layouts"
+  ],
+  "pitfalls": [
+    "Teaching the laws as a memorized list (proximity, similarity, closure) without the underlying perceptual-organization problem they solve, producing decoration-by-checklist instead of engineered perception",
+    "Ignoring accidental grouping — unintended alignments, adjacency, and shared styling creating false patterns and phantom relationships viewers cannot unsee",
+    "Over-grouping dense dashboards into cards and boxes until the containers carry more ink and attention than the data",
+    "Confusing grouping salience with importance — strong gestalt structure on the wrong element directing attention away from the decision-relevant signal",
+    "Assuming universality — grouping strengths vary with expertise, culture, and task; what pops for the designer who knows the answer may not pop for a first-time viewer"
+  ]
+}
