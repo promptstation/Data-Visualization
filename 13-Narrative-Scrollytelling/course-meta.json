@@ -1,0 +1,24 @@
+{
+  "course_number": 13,
+  "course_title": "Narrative Scrollytelling for Data Stories",
+  "folder": "13-Narrative-Scrollytelling",
+  "discipline_framing": "The storytelling frontier of the data visualization specialist discipline — scroll-driven narrative graphics mastered end to end: story structure, text-graphics choreography, scroll-trigger implementation, animation craft, and the editorial discipline that turns data into experiences readers finish and remember",
+  "domain_short": "Narrative scrollytelling",
+  "audience": "Data visualization specialists, journalists, and front-end-minded analysts who build static charts well and need the narrative design and scroll-implementation craft to produce publication-grade data stories in the Pudding-and-NYT-Graphics tradition",
+  "sources": [
+    "The narrative-visualization research canon (the Segel-Heer taxonomy of data-story forms, the Hullman martini-glass structure research, the authored-versus-exploratory narrative literature from IEEE VIS and journalism studies)",
+    "The data-journalism practice tradition (the NYT-Snow-Fall lineage, the Pudding essay craft, the Guardian-Propublica-Bloomberg graphics newsroom conventions and their published process write-ups)",
+    "The scroll-implementation ecosystem (the Scrollama, GSAP-ScrollTrigger, Framer-Motion, and Intersection-Observer documentation traditions, the Svelte-and-React scrollytelling component patterns)",
+    "The motion-and-animation craft literature (the animation-for-comprehension research, the easing-and-choreography traditions from the interface-animation canon)",
+    "The web-performance and accessibility standards (the Core-Web-Vitals, prefers-reduced-motion, and scroll-interaction accessibility guidance from the W3C and MDN traditions)",
+    "The editorial-process and ethics literature (the newsroom-collaboration workflows, the data-story ethics and verification traditions from the journalism canon)",
+    "The audience-analytics literature (the scroll-depth engagement measurement and narrative-effectiveness research traditions)"
+  ],
+  "pitfalls": [
+    "Animation worship — choreographing spectacular transitions that dazzle on first scroll and obscure the data on every re-read, mistaking motion polish for narrative clarity",
+    "Scroll-jacking reader control — trapping users in forced-motion sequences with no way to skip, re-read, or escape, violating both accessibility standards and basic reader trust",
+    "Story without evidence structure — writing the dramatic arc first and bending data selections, scales, and annotations to fit the narrative instead of letting verified findings drive the plot",
+    "Desktop-only choreography — designing sticky-panel magic that collapses on mobile viewports, slow networks, and reduced-motion preferences, shipping the afterthought to most of the audience",
+    "The unfinishable epic — burying the payoff under twenty screens of setup so scroll-depth analytics show readers abandoning before the story's point ever arrives"
+  ]
+}
