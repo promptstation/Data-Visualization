@@ -1,0 +1,24 @@
+{
+  "course_number": 4,
+  "course_title": "Low-Level Graphics APIs: WebGL, WebGPU & Canvas",
+  "folder": "04-Low-Level-Graphics-APIs",
+  "discipline_framing": "GPU-accelerated rendering engineering for the browser — Canvas 2D, WebGL, and WebGPU mastered for real-time, interactive visualization of massive datasets",
+  "domain_short": "Graphics APIs",
+  "audience": "Visualization engineers, creative-technology developers, and front-end engineers who hit DOM and SVG ceilings with large data and must render hundreds of thousands to millions of marks at interactive frame rates through hardware acceleration",
+  "sources": [
+    "The WebGL and WebGL 2.0 specifications with the Khronos documentation and the OpenGL ES pipeline lineage",
+    "The W3C WebGPU specification and W3C WebGPU working-group materials with the compute-shader model documentation",
+    "The HTML Canvas 2D specification and MDN canvas-performance guidance (batching, dirty rectangles, offscreen canvas)",
+    "deck.gl, regl, twgl, and PixiJS documentation and architecture writings as the practitioner library canon for data-driven GPU rendering",
+    "The GPU-architecture literature at practitioner depth (the pipeline stages, SIMD execution model, memory hierarchy, and rasterization mechanics)",
+    "Apache Arrow, typed-array (TypedArray/DataView) documentation, and web-worker/transferable-object MDN guidance for the data-transfer layer",
+    "Real-time rendering practice literature (the frame-budget discipline, level-of-detail and culling traditions from the games-graphics canon adapted to visualization)"
+  ],
+  "pitfalls": [
+    "Premature GPU escalation — reaching for WebGL when Canvas 2D or SVG handles the dataset, inheriting shader complexity, debugging pain, and device-compatibility risk for no perceptible gain",
+    "CPU-side bottlenecks in GPU pipelines — uploading and rebuilding buffers every frame, negating hardware acceleration; the draw-call and data-transfer costs dominating the render budget",
+    "Floating-point precision blindness — GPU float32 coordinate math producing jitter and drift at large coordinate magnitudes, the classic web-mercator map-rendering artifact class",
+    "Interaction afterthoughts — building beautiful GPU renders with no picking strategy, then discovering hit-testing millions of marks requires its own architecture (picking buffers, spatial indices)",
+    "Device-assumption uniformity — assuming consistent WebGPU availability, texture limits, and driver behavior across the real fleet of user devices, browsers, and GPUs without fallback chains"
+  ]
+}
