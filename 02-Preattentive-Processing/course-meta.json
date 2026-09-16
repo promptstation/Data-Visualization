@@ -1,0 +1,24 @@
+{
+  "course_number": 2,
+  "course_title": "Preattentive Processing",
+  "folder": "02-Preattentive-Processing",
+  "discipline_framing": "The science of visual attributes (color hue, size, orientation, motion) processed in milliseconds before conscious attention — engineered to direct the viewer's eye instantly in data visualization",
+  "domain_short": "Preattentive processing",
+  "audience": "Visualization designers, dashboard builders, and front-end engineers who must make critical signals detectable in a glance — designing for the pre-conscious visual system that decides what attention visits before the viewer knows it",
+  "sources": [
+    "Treisman's feature-integration theory and the visual-search research program (pop-out, search slopes, conjunction costs) as the measuring framework",
+    "Healey's preattentive processing research applied directly to scientific visualization and large-dataset graphics",
+    "Wolfe's guided-search model — the hybrid bottom-up salience and top-down task-guidance architecture",
+    "Itti-Koch computational saliency lineage — bottom-up salience map models and their visualization applications",
+    "Ware, Information Visualization: Perception for Design — the preattentive channel catalog and application canon",
+    "The change-detection and change-blindness literature (motion-onset capture, transient detection, flicker paradigms) for temporal preattentives",
+    "Cleveland-McGill graphical perception hierarchy with its preattentive versus deliberate decoding distinction as the accuracy complement"
+  ],
+  "pitfalls": [
+    "Salience inflation — highlighting everything until nothing pops; preattentive power is relative and budget-limited, diluted by overuse (the cry-wolf effect on the salience map)",
+    "Confusing salience with meaning — a popped element directs the eye but carries no interpretation; preattentive capture without deliberate-support structure leaves viewers looking at the right place without understanding",
+    "Conjunction blindness — expecting combinations of features (red AND large AND tilted) to pop when only single features do, producing serial-search tasks mislabeled as glances",
+    "Habituation neglect — persistent highlights and badges losing capture power through neural adaptation, the alert-fatigue dynamic killing always-on emphasis",
+    "Accessibility-assumed pop — preattentive effects varying with color vision (hue channels degraded for CVD viewers) and age, single-channel salience failing for part of the audience"
+  ]
+}

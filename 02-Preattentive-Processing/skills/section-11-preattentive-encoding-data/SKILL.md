@@ -1,0 +1,166 @@
+---
+name: section-11-preattentive-encoding-data
+description: Develop comprehensive, professional-level learning modules and training materials on preattentive Encoding of Data — When Salience Carries Meaning within Preattentive Processing — select data encodings through the speed-accuracy channel matrix (position-length-luminance for fast-accurate reading; hue-shape for categorical speed; area-angle as deliberate-only) matched to monitoring versus analysis tasks, engineer redundant dual-channel encodings with cost-balance and single-dependency audits,.... Use this skill whenever the user asks to create, teach, or deepen training on preattentive, encoding, salience, carries, meaning, Preattentive processing, or requests workshops, lessons, curricula, job aids, or expert instruction in this area — even when the word “module” is never used.
+compatibility: Any environment that can write Markdown files; benefits from web research access for authoritative sources; no external tools or packages required.
+metadata:
+  author: Promptstation skill-building pipeline (Data Visualization course 02, section 11)
+  version: 1.0.0
+  category: professional-education
+---
+
+# Preattentive Encoding of Data: When Salience Carries Meaning — Professional Training
+
+## Mission
+
+Produce professional-grade learning modules and training materials on **preattentive Encoding of Data: When Salience Carries Meaning** within The science of visual attributes (color hue, size, orientation, motion) processed in milliseconds before conscious attention — engineered to direct the viewer's eye instantly in data visualization.
+
+Subject scope: Covers the encoding-side application: the encoding-versus-emphasis distinction — the two uses of channels: emphasis (salience marking importance within an existing encoding — the previous sections' domain) versus encoding (the data values themselves carried by preattentive channels — the red-high-green-low gradient fields, the size-scaled symbol maps, the orientation-encoded flow directions) making channel-choice a data-representation decision with accuracy consequences beyond capture; the preattentive-decodable encodings — the glance-readable variables: the documented high-accuracy fast channels (the position-on-aligned-scale as the champion — the Cleveland-McGill hierarchy's top rank with its preattentive-parallel registration, the length and orientation with good fast-decoding, the color-luminance gradients for ordered fields with the sequential-palette speed advantage) versus the deliberate-only channels (the area and volume requiring computation, the angle and slope requiring judgment — the slower less-accurate family) establishing the fast-versus-accurate channel map; the accuracy-speed trade-off surface — the dual-criterion selection: the channel-selection matrix (each encoding channel scored on preattentive-detectability AND deliberate-decoding-accuracy — the position wins both; color-hue wins speed for categorical but loses ordered-accuracy; size wins salience but loses precision) with the task-matching logic (monitoring tasks favoring the speed column, analysis tasks favoring the accuracy column, the hybrid designs splitting channels by panel role); the texture-and-density encodings — the field-reading channels: the preattentive texture perception (the density, orientation-frequency, and granularity textures read as surface properties in parallel — the texture-gradient encodings for continuous fields, the hatching-density conventions), the micro-pattern encodings (the sparkline-family glance patterns — the trend-shape preattentive reading, the glyph-and-icon encodings at field scale) as the beyond-single-mark encodings; the redundancy-engineering practice — the robust-encoding design: the dual-channel encoding standard (the critical ordered values carried by both luminance and position — the heatmap-with-aligned-cells pattern, the categorical values by hue and shape — the CVD-and-print robustness), the redundancy-cost analysis (channel-capacity consumption, the legend complexity, the visual-noise increase) balancing robustness against clutter, and the redundancy-audit (the single-channel dependencies flagged — the course-1 carrier audit specialized to data encoding); the salience-honesty constraint — the encoding-ethics: the channel-integrity rules (the rainbow-palette false-boundary problem — the perceptual discontinuities in non-perceptually-uniform colormaps creating phantom edges and false patterns: the jet-colormap critique as encoding-science, the perceptually-uniform colormap mandate — the viridis-cividis-family rationale), the proportional-encoding obligations (the area-scaled symbols with square-root-radius correction — the Flannery findings applied, the 3D-perspective distortion avoidance), and the emphasis-encoding separation (the highlighted element's styling not altering its data-encoding — the red-for-emphasis versus red-for-value collision management); the ordered-categorical-continuous channel grammar — the data-type mapping: the data-type-to-channel conventions with their perceptual bases (the nominal data to hue-shape-position, the ordinal to saturation-size-lightness-steps, the quantitative to position-length-luminance-gradient, the temporal to position-motion-trajectory) as the Type-Channel table enriched with salience-strength annotations per pairing; the dense-data salience management — the scale problem: the large-N encoding strategies (the aggregation-before-salience principle — the binned and density-encoded fields restoring preattentive readability at scale, the level-of-detail salience switching — the zoom-dependent channel changes, the sampling-and-jitter transparency practices) connecting to the rendering-scale course 4-8 territory with the perception-first framing; the interactive-encoding dynamics — the temporal data layer: the animated-encoding conventions (the motion-direction as velocity-encoding, the transition-morphing as change-encoding — the bar-growth and path-extension readings), the interactive-parameter-coupling (the slider-to-visual mapping latency and channel choice — the direct-manipulation salience feedback), and the streaming-encodings (the real-time channel updates with the change-transient discipline from section 5) as the dynamic-encoding craft; the validation of encoded salience — the measurement layer: the decoding-accuracy tests (the value-estimation protocols per channel — the Cleveland-McGill method modernized, the fast-presentation accuracy measures isolating preattentive decoding), the pattern-detection benchmarks (the trend-and-outlier find-times by encoding scheme), and the misreading audits (the systematic-error mapping — which encodings produce predictable biases) as the encoding-evidence system; the encoding anti-patterns — the failure catalog: the salience-driven-encoding error (choosing the loudest channel over the most accurate — the motion-encoded-values distraction trap), the false-boundary palette (the non-uniform colormap phantom edges), the redundant-channel-conflict (two channels encoding slightly different transforms of one variable — the mixed-message encoding), and the dense-field-salience-collapse (the over-plotted marks destroying all channel readability — the aggregation-failure) as the encoding-hygiene rules; and the encoding deliverable — the accuracy-salience dual-optimized data-encoding system.
+
+Write as an experienced practitioner, not as a summarizer of popular content. Every framework taught must be something a real team or professional could run: procedures they can execute, criteria they can judge with, and artifacts they can hand to a colleague. Do not present claims as settled when the field treats them as contested — the training must model evidence discipline.
+
+The module deepens this section's capabilities for a learner progressing from competent beginner toward expert practitioner, and connects them to the surrounding discipline rather than teaching them in isolation.
+
+## Use Cases
+
+### Full learning module
+When asked for a comprehensive module on this topic:
+1. Scope audience, prerequisites, duration, and discipline mix.
+2. Build the evidence base from the authoritative sources below.
+3. Write the full progressive module from the template.
+4. Include all exercises with model solutions and all gate checklists.
+5. Validate against the gate below before delivery.
+
+### Condensed workshop
+When asked for a one-day or half-day workshop:
+1. Prioritize the units that match where the group is stuck.
+2. Compress content to frameworks plus one worked example each; run exercises live with the participants' own material.
+3. Leave behind the relevant checklists as job aids.
+
+### Working job aids
+When a practitioner needs tools rather than teaching:
+1. Deliver the applicable checklists and templates from `references/exercise-and-checklist-library.md`, customized to their situation.
+2. Add a one-page rationale per aid so the user understands what each item protects against.
+
+## Core Output Requirements
+
+- Deliverables are Markdown documents: the module, exercise sets with model solutions, and checklists. No placeholders, no "TODO" sections.
+- Ground content in authoritative sources:
+- Treisman's feature-integration theory and the visual-search research program (pop-out, search slopes, conjunction costs) as the measuring framework
+- Healey's preattentive processing research applied directly to scientific visualization and large-dataset graphics
+- Wolfe's guided-search model — the hybrid bottom-up salience and top-down task-guidance architecture
+- Itti-Koch computational saliency lineage — bottom-up salience map models and their visualization applications
+- Ware, Information Visualization: Perception for Design — the preattentive channel catalog and application canon
+- The change-detection and change-blindness literature (motion-onset capture, transient detection, flicker paradigms) for temporal preattentives
+- Cleveland-McGill graphical perception hierarchy with its preattentive versus deliberate decoding distinction as the accuracy complement
+- Maintain an evidence ledger while writing: every factual claim or number is either sourced, flagged as disputed/popular account, or omitted. Never invent statistics, studies, or citations.
+- Distinguish established research findings from professional conventions and informed recommendations, and say which is which.
+- Explain each specialized term in clear language on first use.
+
+## Module Development Workflow
+
+### Phase 1 — Scope and audience
+Determine delivery mode (full module / workshop / job aids), learner background, duration, and whether learners bring their own material to work on. Record these choices; they drive depth allocation in Phase 3.
+
+### Phase 2 — Evidence base
+Collect the strongest documented examples, findings, and case material for this topic from the authoritative sources. Note what is well established, what is contested, and what is merely conventional. Verify any numbers before publishing them.
+
+### Phase 3 — Architecture
+Sequence the material progressively and establish core conceptual distinctions before the concepts are used together. Suggested unit sequence:
+
+1. Unit 1
+
+### Phase 4 — Write the units
+For each unit follow the internal structure: teach the framework → show a worked example (weak / improved / professional versions where useful) → connect back to the surrounding discipline → state trade-offs explicitly. Use `references/domain-content-map.md` as the unit-by-unit source of scope, bullets, and evidence guidance.
+
+### Phase 5 — Exercises and assessment
+Select and adapt exercises from `references/exercise-and-checklist-library.md`. Adapt scenarios to the audience's domain. For a full module, include expert-quality model solutions; for workshops, convert selected exercises into facilitated live activities.
+
+### Phase 6 — Checklists and job aids
+Include the gate checklists from the library, customized to the audience's context without diluting the decision each item forces.
+
+### Phase 7 — Validation gate
+Run the Validation Gate below against the finished material before delivery. Fix failures; do not ship and caveat.
+
+## Module Template
+
+ALWAYS use this exact template for full modules:
+
+```markdown
+# Preattentive Encoding of Data: When Salience Carries Meaning [— audience/context subtitle]
+
+## Who This Module Is For
+## Prerequisites
+## Learning Outcomes
+## Unit 1 — Unit 1
+## Integrated Capstone
+## Practical Exercises
+## Professional Checklists
+## Sources and Evidence Notes
+```
+
+Each unit internally follows: framework → worked example(s) → disciplinary connection → trade-offs.
+
+## Writing Standards
+
+Throughout the material, prioritize language that is:
+
+* Precise without becoming jargon-heavy
+* Practical without discarding rigor
+* Honest about limitations and contested findings without being defeatist
+* Concrete — anchored in real cases, real artifacts, and verifiable numbers
+* Progressive from fundamentals to expert judgment
+
+Where a recommendation depends on context, explain the trade-off rather than presenting an absolute rule.
+
+## Validation Gate
+
+Before delivery, verify:
+
+### Content
+- all units present with correct depth for the scoped audience
+- core distinctions established before they are used together
+- every taught capability has a usable framework, not just an explanation
+
+### Evidence
+- every claim and number is sourced or explicitly flagged as disputed
+- no invented statistics, studies, dates, or citations anywhere
+- sources are authoritative; no SEO-farm or marketing claims presented as fact
+
+### Capability
+- each absorbed capability (5 in this section) is covered by teaching content AND at least one exercise with evaluation criteria
+- exercises have model solutions in full-module mode
+
+### Artifacts
+- all gate checklists included and actionable as written
+- template structure followed; no placeholder sections
+
+### Quality
+- trade-offs stated wherever recommendations are context-dependent
+- terminology explained on first use
+- reads as practitioner-written, not generic AI advice
+
+## Anti-Patterns
+
+Avoid: Salience inflation — highlighting everything until nothing pops; preattentive power is relative and budget-limited, diluted by overuse (the cry-wolf effect on the salience map); Confusing salience with meaning — a popped element directs the eye but carries no interpretation; preattentive capture without deliberate-support structure leaves viewers looking at the right place without understanding; Conjunction blindness — expecting combinations of features (red AND large AND tilted) to pop when only single features do, producing serial-search tasks mislabeled as glances; Habituation neglect — persistent highlights and badges losing capture power through neural adaptation, the alert-fatigue dynamic killing always-on emphasis; Accessibility-assumed pop — preattentive effects varying with color vision (hue channels degraded for CVD viewers) and age, single-channel salience failing for part of the audience; exercises without evaluation criteria; modules that stop at inspiration without a single decision the learner can now make better; and any content that overstates certainty beyond what the evidence supports.
+
+## Decision Heuristic
+
+When allocating depth under time or length limits, ask:
+
+1. Where will this audience actually stall in practice?
+2. Which unit protects the most value if taught well?
+3. Can the learner run the framework tomorrow without me?
+4. Is every example doing work a plain sentence could not?
+5. What would a skeptical domain expert say about this material?
+
+If two topics compete for space, keep the one that changes a decision.
+
+## Final Principle
+
+The goal is not more content about Preattentive processing. The goal is that a practitioner could take this material and perform: Select data encodings through the speed-accuracy channel matrix (position-length-luminance for fast-accurate reading, validate through decoding-accuracy tests and misreading audits preventing loud-over-accurate, false-boundary, and dense-collapse failures — with the same evidence discipline the field's best practitioners use. The module must function simultaneously as a learning resource, a practical reference, and a working methodology.
+
+## Bundled References
+
+Read `references/domain-content-map.md` during Phases 3–4 for the unit-by-unit content map: scope statements, teaching bullets, evidence anchors, and trade-off prompts.
+
+Read `references/exercise-and-checklist-library.md` during Phases 5–6 for the ready-to-adapt exercises and the professional gate checklists.
