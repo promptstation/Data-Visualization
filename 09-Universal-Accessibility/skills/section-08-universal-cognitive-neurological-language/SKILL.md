@@ -1,0 +1,166 @@
+---
+name: section-08-universal-cognitive-neurological-language
+description: Develop comprehensive, professional-level learning modules and training materials on cognitive, Neurological, and Language Accessibility — Understandable Visualization within Universal Accessibility (a11y) for Data Visualization — serve cognitive accessibility across the disability-spectrum-situational-load continuum by building plain-language systems (jargon-free chart text, terminology registries with glossaries, locale-clear number-date formats, structured error-feedback language); manage cognitive load through progressive disclosure with.... Use this skill whenever the user asks to create, teach, or deepen training on cognitive, neurological, language, accessibility, understandable, visualization, Accessibility, or requests workshops, lessons, curricula, job aids, or expert instruction in this area — even when the word “module” is never used.
+compatibility: Any environment that can write Markdown files; benefits from web research access for authoritative sources; no external tools or packages required.
+metadata:
+  author: Promptstation skill-building pipeline (Data Visualization course 09, section 8)
+  version: 1.0.0
+  category: professional-education
+---
+
+# Cognitive, Neurological, and Language Accessibility: Understandable Visualization — Professional Training
+
+## Mission
+
+Produce professional-grade learning modules and training materials on **cognitive, Neurological, and Language Accessibility: Understandable Visualization** within Inclusive visualization engineering — WCAG fluency, assistive-technology partnership, and accessible-by-architecture chart, dashboard, and interaction design serving users with visual, motor, and cognitive disabilities.
+
+Subject scope: Covers the comprehension-inclusion layer: the cognitive-accessibility scope — the invisible majority: the cognitive-disability spectrum (the memory, attention, executive-function, and processing-speed variations: the ADHD-autism-learning-disability-TBI-and-age-related-cognitive-change populations, the prevalence evidence: the cognitive disabilities as the largest disability category in many surveys, the situational cognitive load: the stressed-distracted-multitasking universal experience widening the beneficiary base), the data-visualization cognitive demands (the statistical-literacy-and-graph-reading-skills assumptions: the chart comprehension as learned skill reality, the working-memory loads of multi-series-and-comparison charts from the load discipline, the abstraction-and-symbol-interpretation demands: the axis-scale-and-encoding comprehension prerequisites), the cognitive-accessibility goals (the comprehensible-by-design standard: the message received without heroic effort, the predictable-and-tolerant interaction: the error-forgiving exploration support, the plain-and-clear communication: the jargon-and-complexity-reduction discipline) as the scope foundation; the plain-language-and-terminology system — the verbal clarity: the plain-language principles applied (the common-words-over-jargon: the revenue-growth-over-top-line-expansion conventions, the active-voice-and-short-sentence discipline for labels, titles, and descriptions, the reading-level targets: the AAA-clear-and-simple guidance and practical grade-level aims for public-facing analytics), the chart-text clarity craft (the title-and-subtitle writing: the informative-plain-titles from the annotation discipline with jargon audit, the legend-and-axis-label simplicity: the unit-and-term clarity with abbreviation expansion, the tooltip-and-annotation language: the conversational-precision balance for in-context text), the terminology-consistency systems (the single-term-per-concept discipline from the labeling governance: the metric-name-registry enforcement across charts, descriptions, and tables, the glossary-and-definition provision: the inline-explanation patterns for unavoidable technical terms, the translation-and-localization clarity: the multilingual-plain-language maintenance from the i18n traditions), the number-and-date-format clarity (the locale-aware formatting with consistency: the decimal-separator-and-date-order ambiguity prevention, the magnitude-and-unit presentation: the million-billion scale-word clarity and consistent abbreviation rules, the relative-time clarity: the "3-days-ago"-versus-absolute-date contexts), and the instruction-and-feedback language (the action-label clarity: the verb-first button-and-control texts, the error-and-status-message comprehension: the what-happened-why-and-what-next structure from the perceived-performance discipline, the help-and-guidance tone: the supportive-non-blaming conventions) as the language system; the complexity-and-load management — the cognitive-budget craft: the progressive-disclosure integration (the layered complexity from the IA discipline as cognitive accessibility: the summary-first-detail-on-demand serving processing limits, the default simplification: the reduced initial views with expansion paths, the choice-overload prevention: the curated-options-and-sensible-defaults from the choice-architecture ethics), the visual-complexity reduction (the chartjunk-and-decoration elimination as accessibility: the data-ink discipline serving attention limits, the single-message-per-chart principle: the one-chart-one-question composition from the dashboard doctrine, the density calibration by audience: the cognitive-load-aware information density from the density engineering), the comparison-and-reference supports (the benchmark-and-context-anchor provision: the comparison points reducing mental arithmetic, the consistent-scale-and-encoding across views: the relearning-burden elimination from the coherence discipline, the worked-example-and-model-answer patterns: the sample-insight demonstrations for novel chart types), the memory-support design (the state-and-history visibility: the active-filter-and-navigation-trail display from the wayfinding discipline, the persistent-labels-over-recall-demands: the direct-labeling memory offload from the redundancy systems, the session-persistence-and-resume: the exploration-state restoration from the fatigue design), and the attention management (the salience-hygiene integration: the single-emphasis-point discipline from the preattentive course preventing attention fragmentation, the notification-and-update restraint: the interruption minimization for attention conditions, the auto-play-and-motion elimination by default: the user-initiated-animation conventions) as the load system; the predictability-and-tolerance system — the interaction safety: the consistent-behavior engineering (the same-interaction-same-result across products: the pattern consistency from the design systems, the context-change-prevention compliance: the 3.2.1-3.2.2-criteria application to filters and controls — the no-surprise-navigation-or-submission discipline, the navigation predictability: the consistent menu-and-control-placement from the wayfinding systems), the error-prevention-and-recovery (the destructive-action protection: the confirmation-and-undo provisions from the error-tolerance traditions, the input-validation-and-correction support: the 3.3.1-3.3.3-criteria application to analytics filters and forms, the graceful-empty-and-edge-states: the no-data-and-error-state clarity from the state-design disciplines), the exploration-safety design (the reversible-interaction guarantees: the reset-and-clear-always-available patterns from the mantra discipline, the no-dead-end-navigation: the escape-and-return-paths-from-every-state, the experiment-friendly environments: the what-if exploration without consequence fear for analytic tools), the pace-and-timing control (the user-controlled animation and refresh: the pause-stop-adjustable-timing from the operable criteria, the no-time-pressure defaults: the generous-and-configurable timeouts, the self-paced-navigation support: the scroll-and-step-control for narrative visualizations), and the session-and-state transparency (the current-state visibility: the where-am-I-what's-filtered-what's-selected clarity from the wayfinding-and-state disciplines, the change communication: the what-updated-and-why feedback from the perceived-performance systems, the data-freshness clarity: the as-of-timestamps-and-update-indicators from the trust-disclosure traditions) as the tolerance system; the neurodiversity-informed design — the spectrum-specific craft: the autism-and-sensory considerations (the sensory-overload prevention: the motion-sound-and-visual-clutter restraint, the literal-language precision: the idiom-and-metaphor caution in labels and descriptions, the predictability emphasis: the routine-supporting consistency and advance notice of changes), the ADHD-and-attention supports (the chunking-and-segmentation: the information-bite-sizing from the load discipline, the focus-support design: the distraction-minimization-and-single-task-orientation for complex analysis, the engagement balance: the interest-supporting-interactivity-without-overstimulation), the dyslexia-and-reading supports (the dyslexia-friendly-typography considerations: the font-spacing-and-line-length evidence-based choices, the text-to-speech compatibility: the selectable-and-parseable-text-over-images-of-text, the multi-format provision: the text-table-and-audio representation suites from the alternative-access systems), the anxiety-and-stress considerations (the calm-technology principles: the non-alarming notification-and-alert designs with severity calibration, the control-and-agency provision: the user command over pacing-and-content-density, the error-message reassurance: the non-catastrophizing failure communication), and the processing-difference accommodations (the multiple-representation provision: the same-content-visual-textual-tabular-audio choice from the equivalence systems, the time-unlimited comprehension: the no-race-to-understand designs, the explicit-structure communication: the visible-hierarchy-and-relationship-labeling reducing inference burden) as the spectrum layer; the accessible-explanation patterns — the comprehension support: the guided-reading designs (the how-to-read-this-chart provisions from the annotation discipline: the encoding-explanation-and-orientation texts for novel visualizations, the annotated-examples: the worked-interpretation demonstrations, the progressive-explanation-layers: the hover-click-and-expanded explanation depths), the insight-and-takeaway provision (the key-finding summaries: the headline conclusions supporting comprehension from the narrative traditions, the context-and-comparison frames: the is-this-good-or-bad orientation supports with benchmarks and trends, the caveat-and-limitation communication: the honest-uncertainty-in-plain-language from the trust disciplines), the learning-support integration (the onboarding-and-tutorial patterns for complex analytics: the progressive-feature-introduction from the disclosure discipline, the contextual-help-and-documentation: the in-place-guidance-linked-to-deeper-resources, the consistent-mental-model support: the metaphor-and-model-continuity across interactions), and the feedback-and-confirmation designs (the action-result communication: the clear-outcome-feedback-for-every-interaction from the perception disciplines, the state-change visibility: the what-changed-highlighting-supporting-change-blindness, the progress-and-completion clarity: the multi-step-operation-status communication) as the explanation layer; the cognitive-accessibility testing — the comprehension evidence: the comprehension-testing methods (the message-extraction protocols: the can-users-state-the-chart's-finding testing from the evaluation traditions, the task-completion-under-cognitive-load: the realistic-condition testing with distraction-and-time-pressure variants), the cognitive-disability-user testing (the learning-disability-ADHD-autism participant research: the inclusive-recruitment-and-supported-participation methods from the user-testing ethics, the facilitated-and-unfacilitated-testing balance for cognitive participants), the readability-and-clarity assessment (the readability-formula application with limits awareness: the Flesch-Kincaid-class tools as screens-not-verdicts, the terminology-comprehension testing: the label-and-instruction-understanding verification from the governance traditions, the first-click-and-wayfinding-testing from the IA discipline as cognitive-load proxies), the expert-review methods (the cognitive-accessibility heuristic evaluation: the WCAG-understandable-criteria-and-beyond checklist reviews, the inclusive-design-persona-and-journey-mapping: the cognitive-diversity-scenario walkthroughs), and the analytics-informed iteration (the help-and-explanation-usage telemetry: the guidance-engagement signals indicating comprehension gaps, the error-and-abandonment-pattern analysis: the cognitive-friction-hotspot identification from the behavioral indicators) as the evidence system; the cognitive-accessibility anti-patterns — the failure library: the jargon-wall (the expert-vocabulary-only labels and descriptions — the plain-language-and-glossary remedy), the complexity-dump (the everything-at-once views without disclosure — the progressive-and-default-simple remedy), the surprise-machine (the context-changing-controls-and-unpredictable-behaviors — the consistency-and-no-surprise remedy), the memory-gauntlet (the recall-dependent-navigation-and-comparison — the visible-state-and-direct-label remedy), the race-condition-UX (the time-pressured-and-auto-advancing-interactions — the user-pace-control remedy), the error-blame-loop (the punishing-failure-communication-without-recovery — the tolerant-and-guiding remedy), the sensory-assault (the motion-sound-and-clutter-overload — the restraint-and-reduced-mode remedy), the single-format-monoculture (the visual-only-comprehension-path — the multi-representation remedy), and the tested-on-nobody (the assumption-based-cognitive-design — the comprehension-and-user-testing remedy) with detection methods as the diagnostic discipline; and the cognitive-accessibility deliverable — the understandable-by-design visualization system serving the full cognitive spectrum.
+
+Write as an experienced practitioner, not as a summarizer of popular content. Every framework taught must be something a real team or professional could run: procedures they can execute, criteria they can judge with, and artifacts they can hand to a colleague. Do not present claims as settled when the field treats them as contested — the training must model evidence discipline.
+
+The module deepens this section's capabilities for a learner progressing from competent beginner toward expert practitioner, and connects them to the surrounding discipline rather than teaching them in isolation.
+
+## Use Cases
+
+### Full learning module
+When asked for a comprehensive module on this topic:
+1. Scope audience, prerequisites, duration, and discipline mix.
+2. Build the evidence base from the authoritative sources below.
+3. Write the full progressive module from the template.
+4. Include all exercises with model solutions and all gate checklists.
+5. Validate against the gate below before delivery.
+
+### Condensed workshop
+When asked for a one-day or half-day workshop:
+1. Prioritize the units that match where the group is stuck.
+2. Compress content to frameworks plus one worked example each; run exercises live with the participants' own material.
+3. Leave behind the relevant checklists as job aids.
+
+### Working job aids
+When a practitioner needs tools rather than teaching:
+1. Deliver the applicable checklists and templates from `references/exercise-and-checklist-library.md`, customized to their situation.
+2. Add a one-page rationale per aid so the user understands what each item protects against.
+
+## Core Output Requirements
+
+- Deliverables are Markdown documents: the module, exercise sets with model solutions, and checklists. No placeholders, no "TODO" sections.
+- Ground content in authoritative sources:
+- The WCAG 2.1/2.2 specification and Understanding documents with the W3C WAI tutorials and ARIA authoring practices
+- The WAI-Graphics and WAI-ARIA Graphics Module work (graphics-symbol, graphics-object, graphics-document roles) and the W3C SVG accessibility guidance
+- The DIAGRAM Center and AEM/Accessible Educational Materials research on accessible complex graphics, charts, and data tables
+- The data-sonification and audio-graph literature (the highcharts-sonification-style practice and research traditions) plus descriptive-text standards for charts
+- The color-vision-deficiency research tradition (the Okabe-Ito palette, ColorBrewer lineage, CVD simulation tooling documentation)
+- Nielsen Norman Group and WebAIM accessibility research including the WebAIM Million automated-analysis findings
+- The regulatory landscape documents (the ADA, Section 508, and the European Accessibility Act requirements) with the EN 301 549 standard
+- Maintain an evidence ledger while writing: every factual claim or number is either sourced, flagged as disputed/popular account, or omitted. Never invent statistics, studies, or citations.
+- Distinguish established research findings from professional conventions and informed recommendations, and say which is which.
+- Explain each specialized term in clear language on first use.
+
+## Module Development Workflow
+
+### Phase 1 — Scope and audience
+Determine delivery mode (full module / workshop / job aids), learner background, duration, and whether learners bring their own material to work on. Record these choices; they drive depth allocation in Phase 3.
+
+### Phase 2 — Evidence base
+Collect the strongest documented examples, findings, and case material for this topic from the authoritative sources. Note what is well established, what is contested, and what is merely conventional. Verify any numbers before publishing them.
+
+### Phase 3 — Architecture
+Sequence the material progressively and establish core conceptual distinctions before the concepts are used together. Suggested unit sequence:
+
+1. Unit 1
+
+### Phase 4 — Write the units
+For each unit follow the internal structure: teach the framework → show a worked example (weak / improved / professional versions where useful) → connect back to the surrounding discipline → state trade-offs explicitly. Use `references/domain-content-map.md` as the unit-by-unit source of scope, bullets, and evidence guidance.
+
+### Phase 5 — Exercises and assessment
+Select and adapt exercises from `references/exercise-and-checklist-library.md`. Adapt scenarios to the audience's domain. For a full module, include expert-quality model solutions; for workshops, convert selected exercises into facilitated live activities.
+
+### Phase 6 — Checklists and job aids
+Include the gate checklists from the library, customized to the audience's context without diluting the decision each item forces.
+
+### Phase 7 — Validation gate
+Run the Validation Gate below against the finished material before delivery. Fix failures; do not ship and caveat.
+
+## Module Template
+
+ALWAYS use this exact template for full modules:
+
+```markdown
+# Cognitive, Neurological, and Language Accessibility: Understandable Visualization [— audience/context subtitle]
+
+## Who This Module Is For
+## Prerequisites
+## Learning Outcomes
+## Unit 1 — Unit 1
+## Integrated Capstone
+## Practical Exercises
+## Professional Checklists
+## Sources and Evidence Notes
+```
+
+Each unit internally follows: framework → worked example(s) → disciplinary connection → trade-offs.
+
+## Writing Standards
+
+Throughout the material, prioritize language that is:
+
+* Precise without becoming jargon-heavy
+* Practical without discarding rigor
+* Honest about limitations and contested findings without being defeatist
+* Concrete — anchored in real cases, real artifacts, and verifiable numbers
+* Progressive from fundamentals to expert judgment
+
+Where a recommendation depends on context, explain the trade-off rather than presenting an absolute rule.
+
+## Validation Gate
+
+Before delivery, verify:
+
+### Content
+- all units present with correct depth for the scoped audience
+- core distinctions established before they are used together
+- every taught capability has a usable framework, not just an explanation
+
+### Evidence
+- every claim and number is sourced or explicitly flagged as disputed
+- no invented statistics, studies, dates, or citations anywhere
+- sources are authoritative; no SEO-farm or marketing claims presented as fact
+
+### Capability
+- each absorbed capability (5 in this section) is covered by teaching content AND at least one exercise with evaluation criteria
+- exercises have model solutions in full-module mode
+
+### Artifacts
+- all gate checklists included and actionable as written
+- template structure followed; no placeholder sections
+
+### Quality
+- trade-offs stated wherever recommendations are context-dependent
+- terminology explained on first use
+- reads as practitioner-written, not generic AI advice
+
+## Anti-Patterns
+
+Avoid: Overlay-widget delusion — bolting on an accessibility-toolbar plugin while the underlying charts remain inaccessible; overlays treating symptoms while the architecture excludes; Alt-text theater — 'Chart. Bar chart.' descriptions that name the graphic type but convey none of the data insight, satisfying tools while failing users; Color-only encoding — meaning carried exclusively by hue with no luminance, pattern, label, or position redundancy, excluding CVD and monochrome users silently; Keyboard trap charts — interactive visualizations reachable only by pointer, with no focus path, no keyboard operation of brushes or drill-downs, and no focus-visible indication; Compliance-checklist ceiling — passing automated scans (which catch a minority of real barriers) and declaring victory without screen-reader sessions, disabled-user testing, or task-completion evidence; exercises without evaluation criteria; modules that stop at inspiration without a single decision the learner can now make better; and any content that overstates certainty beyond what the evidence supports.
+
+## Decision Heuristic
+
+When allocating depth under time or length limits, ask:
+
+1. Where will this audience actually stall in practice?
+2. Which unit protects the most value if taught well?
+3. Can the learner run the framework tomorrow without me?
+4. Is every example doing work a plain sentence could not?
+5. What would a skeptical domain expert say about this material?
+
+If two topics compete for space, keep the one that changes a decision.
+
+## Final Principle
+
+The goal is not more content about Accessibility. The goal is that a practitioner could take this material and perform: Serve cognitive accessibility across the disability-spectrum-situational-load continuum by building plain-language systems (jargon-free chart text, terminology registries with glossaries, locale-clear number-date formats, structured error-feedback language), validate through message-extraction comprehension testing, cognitive-disability user research with supported participation, readability-terminology-wayfinding assessment, heuristic review, and telemetry-informed iteration, and prevent jargon-wall-complexity-dump-surprise-memory-race-blame-sensory-monoculture-untested anti-patterns — with the same evidence discipline the field's best practitioners use. The module must function simultaneously as a learning resource, a practical reference, and a working methodology.
+
+## Bundled References
+
+Read `references/domain-content-map.md` during Phases 3–4 for the unit-by-unit content map: scope statements, teaching bullets, evidence anchors, and trade-off prompts.
+
+Read `references/exercise-and-checklist-library.md` during Phases 5–6 for the ready-to-adapt exercises and the professional gate checklists.

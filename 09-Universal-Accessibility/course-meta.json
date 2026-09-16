@@ -1,0 +1,24 @@
+{
+  "course_number": 9,
+  "course_title": "Universal Accessibility (a11y) for Data Visualization",
+  "folder": "09-Universal-Accessibility",
+  "discipline_framing": "Inclusive visualization engineering — WCAG fluency, assistive-technology partnership, and accessible-by-architecture chart, dashboard, and interaction design serving users with visual, motor, and cognitive disabilities",
+  "domain_short": "Accessibility",
+  "audience": "Visualization engineers, designers, and product teams legally and ethically obligated to make data graphics perceivable, operable, understandable, and robust for all users — from public-sector dashboards to commercial analytics products",
+  "sources": [
+    "The WCAG 2.1/2.2 specification and Understanding documents with the W3C WAI tutorials and ARIA authoring practices",
+    "The WAI-Graphics and WAI-ARIA Graphics Module work (graphics-symbol, graphics-object, graphics-document roles) and the W3C SVG accessibility guidance",
+    "The DIAGRAM Center and AEM/Accessible Educational Materials research on accessible complex graphics, charts, and data tables",
+    "The data-sonification and audio-graph literature (the highcharts-sonification-style practice and research traditions) plus descriptive-text standards for charts",
+    "The color-vision-deficiency research tradition (the Okabe-Ito palette, ColorBrewer lineage, CVD simulation tooling documentation)",
+    "Nielsen Norman Group and WebAIM accessibility research including the WebAIM Million automated-analysis findings",
+    "The regulatory landscape documents (the ADA, Section 508, and the European Accessibility Act requirements) with the EN 301 549 standard"
+  ],
+  "pitfalls": [
+    "Overlay-widget delusion — bolting on an accessibility-toolbar plugin while the underlying charts remain inaccessible; overlays treating symptoms while the architecture excludes",
+    "Alt-text theater — 'Chart. Bar chart.' descriptions that name the graphic type but convey none of the data insight, satisfying tools while failing users",
+    "Color-only encoding — meaning carried exclusively by hue with no luminance, pattern, label, or position redundancy, excluding CVD and monochrome users silently",
+    "Keyboard trap charts — interactive visualizations reachable only by pointer, with no focus path, no keyboard operation of brushes or drill-downs, and no focus-visible indication",
+    "Compliance-checklist ceiling — passing automated scans (which catch a minority of real barriers) and declaring victory without screen-reader sessions, disabled-user testing, or task-completion evidence"
+  ]
+}
