@@ -1,0 +1,24 @@
+{
+  "course_number": 14,
+  "course_title": "Semiographics & Visual Metaphor",
+  "folder": "14-Semiographics-and-Visual-Metaphor",
+  "discipline_framing": "The meaning-making layer of the data visualization specialist discipline — semiotics, Bertin's graphical semiology, and metaphor theory mastered as design instruments: the science of how marks, icons, colors, and visual figures carry meaning, and the craft of building coherent visual languages that communicate instantly and survive cultural contact",
+  "domain_short": "Semiographics and visual metaphor",
+  "audience": "Data visualization specialists, information designers, and visual communicators who apply encodings by convention and need the semiotic and metaphorical foundations to design original visual vocabularies, evaluate meaning failures, and build coherent graphic languages across products and cultures",
+  "sources": [
+    "The graphical-semiology canon (the Bertin Semiology of Graphics tradition: retinal variables, the levels of reading, and the graphic information system)",
+    "The semiotics foundations (the Saussure sign-system and Peirce icon-index-symbol traditions, the Barthes rhetoric-of-the-image analysis, the Kress-van-Leeuwen visual-grammar lineage)",
+    "The metaphor and cognition literature (the Lakoff-Johnson conceptual-metaphor tradition, the Fauconnier-Turner conceptual-blending theory, the visual-metaphor research from design and communication studies)",
+    "The visualization-encoding theory (the Munzner nested-model and Mackinlay expressiveness-effectiveness traditions connecting semiotics to modern visualization science)",
+    "The pictogram and icon design tradition (the Neurath Isotype lineage, the Otl-Aicher and Olympic-pictogram history, the modern icon-system design literature)",
+    "The color-culture and cross-cultural-communication literature (the color-meaning traditions across cultures, the international-symbol standards, the localization design practices)",
+    "The visual-rhetoric and information-aesthetics literature (the Tufte chartjunk-and-data-ink tradition, the persuasion-and-decorative-figure analysis from the rhetorical canon)"
+  ],
+  "pitfalls": [
+    "Private symbolism — inventing visual metaphors that make sense only to their designer, shipping graphic languages readers must decode by trial, legend, and guesswork",
+    "Cultural blindness — assuming colors, gestures, icons, and metaphors carry universal meaning, then discovering red means mourning in one audience and danger in another",
+    "Decoration creep — layering visual richness until metaphor and ornament compete with data, reviving the chartjunk failures the Tufte tradition documented",
+    "Jargon without craft — reciting signifier-signified-icon-index-symbol vocabulary in design reviews while producing no better encodings than intuition alone",
+    "Mixed-metaphor systems — combining incompatible visual languages within one product (liquid fills beside bar stacks beside physical gauges) so readers relearn semantics per chart"
+  ]
+}

@@ -1,0 +1,166 @@
+---
+name: section-14-semiographics-building-semiotic-design-systems
+description: Develop comprehensive, professional-level learning modules and training materials on building Semiotic Design Systems — Coherent Visual Languages at Scale within Semiographics & Visual Metaphor — build semiotic design systems through the visual language concept (vocabulary-syntax-semantics framing with consistency-as-code-building principle; design system lineage with visualization-specific layers, scope definition across artifacts-audiences-boundaries); construct the vocabulary layer (encoding convention.... Use this skill whenever the user asks to create, teach, or deepen training on building, semiotic, design, systems, coherent, visual, languages, scale, Semiographics and visual metaphor, or requests workshops, lessons, curricula, job aids, or expert instruction in this area — even when the word “module” is never used.
+compatibility: Any environment that can write Markdown files; benefits from web research access for authoritative sources; no external tools or packages required.
+metadata:
+  author: Promptstation skill-building pipeline (Data Visualization course 14, section 14)
+  version: 1.0.0
+  category: professional-education
+---
+
+# Building Semiotic Design Systems: Coherent Visual Languages at Scale — Professional Training
+
+## Mission
+
+Produce professional-grade learning modules and training materials on **building Semiotic Design Systems: Coherent Visual Languages at Scale** within The meaning-making layer of the data visualization specialist discipline — semiotics, Bertin's graphical semiology, and metaphor theory mastered as design instruments: the science of how marks, icons, colors, and visual figures carry meaning, and the craft of building coherent visual languages that communicate instantly and survive cultural contact.
+
+Subject scope: Covers the systematization layer where semiotic craft becomes organizational capability through designed visual languages: the visual language concept — from artifacts to systems: the language framing (the visual language as the complete sign system an organization uses, comprising vocabulary of marks and icons, syntax of combination rules, and semantics of meaning assignments, applying section 1's system concepts at organizational scale; the consistency-as-semantics principle where repeated sign usage across contexts builds learned conventions in audiences, the code-establishment mechanism from section 1's encoding-decoding model; the drift problem where unsystematic accumulation produces mixed-metaphor collections, the palette-and-pattern chaos the meta course pitfalls identify as the mixed-metaphor-systems failure); the design system lineage (the atomic-design hierarchies where tokens, components, and patterns compose into pages, from the interface design system traditions; the visualization-specific system layers where chart primitives, encoding conventions, color systems, annotation patterns, and interaction behaviors require their own governance beyond generic component libraries; the semiotic extension where design systems must govern meaning assignments and not just visual forms, the distinctive demand data visualization places on systems practice); the system scope definition (the artifact inventory covering dashboards, reports, editorial graphics, presentations, embedded product visuals, and export formats as one language territory; the audience-segment mapping where different audiences may need dialects of one language rather than separate languages, from section 10's audience analysis; the boundary decisions where the system governs fully, guides loosely, or stays silent, preventing both anarchy and suffocation) as the concept layer; the vocabulary layer — the sign inventory: the encoding convention registry (the channel-assignment standards documenting which data types take which visual variables across the organization, operationalizing sections 3 and 4 as policy; the chart-type palette defining the sanctioned repertoire with selection guidance and entailment warnings from section 12's analysis; the scale and axis conventions covering baselines, tick densities, number formats, and unit presentations with the honesty rules from section 11's audit systems encoded as standards); the color system governance (the functional palette architecture where categorical, sequential, and diverging roles receive dedicated verified palettes per section 9's functional layer; the semantic color registry where status, brand, and accent assignments carry documented meanings with the cultural audit records from sections 9 and 10; the theme and mode systems where dark mode, high contrast, and print variants maintain semantic consistency through complete re-verification, from the accessibility traditions); the icon and symbol library (the systematic icon families built under the construction and governance disciplines of section 7; the domain symbol registries covering industry-specific marks with their convention sources documented; the pictogram and isotype standards for unit-chart applications with the scaling and representation rules from sections 6 and 7); the typography system (the type scale and role assignments where every text function from dashboard title to axis tick has defined treatment per section 8's token systems; the numeric typography standards covering tabular figures, unit formats, and localization rules; the expressive typography boundaries defining where and how display type may depart from functional baselines); and the annotation and narrative vocabulary (the callout, label, reference-line, and highlight pattern library with usage rules from the annotation traditions; the metaphor and register guidance documenting the sanctioned source domains and stylistic registers for different audience segments, encoding sections 5, 6, and 13 decisions as policy) as the vocabulary layer; the syntax layer — combination rules: the composition grammar (the layout systems defining grid, spacing, and alignment structures where visual elements combine, applying section 2's compositional grammar as buildable rules; the hierarchy conventions establishing how importance signals through size, position, weight, and emphasis consistently across artifacts; the density standards setting information-per-area expectations by artifact type and audience, calibrated through the evidence traditions of section 13); the multi-view and multi-chart rules (the panel combination grammar where small multiples, dashboards, and report sequences maintain consistent encoding across views, the cross-view coherence requirement from the information architecture traditions; the transition and state rules where animated and interactive changes follow consistent semantic mappings per section 2's interaction semiotics; the linking and coordination conventions where cross-filtering and brushing behaviors carry uniform meaning across system surfaces); the narrative composition rules (the story structure templates where common narrative patterns receive sanctioned visual treatments from the narrative course traditions; the anchorage standards requiring titles, sources, and methodology elements in defined relationships to graphics per section 2's anchorage hierarchy; the sequence conventions governing multi-screen and multi-page argument construction from section 11's architecture); the responsive and contextual adaptation rules (the breakpoint transformation grammar defining how compositions restructure across contexts while preserving meaning per the responsive traditions; the audience dialect rules where executive, analyst, and public versions of the same content follow defined adaptation patterns from section 10's audience analysis; the medium conventions covering print, screen, presentation, and social formats with their semiotic adjustments); and the exception governance (the documented-deviation process where novel needs propose system extensions through review rather than silent violation; the invention sandbox where experimental visual languages develop with explicit non-conformance status before graduation or retirement; the exception registry tracking approved deviations with rationale and review dates, preventing exception accumulation into de facto anarchy) as the syntax layer; the system operations — governance in practice: the meaning maintenance (the semantic changelog documenting when and why sign meanings change, with audience re-education obligations when conventions shift, applying the version-awareness disciplines from the engineering traditions; the collision detection where proposed new usages are checked against existing meaning assignments across the vocabulary; the retirement and migration management where deprecated signs receive sunset periods and replacement mapping); the contribution and review workflow (the contribution standards where teams extend the system through defined processes with semiotic review covering entailment, connotation, and cultural checks from the course frameworks; the review board composition including design, data, accessibility, and domain representation; the decision documentation capturing rationale for future reference, building the institutional memory of section 1's langue); the measurement and health monitoring (the adoption metrics tracking system usage versus deviation across artifacts; the comprehension monitoring where audience testing samples system artifacts for convention learning curves and misreading patterns; the consistency auditing where automated and manual reviews sample published artifacts against system standards, from the governance traditions of the accessibility and performance courses); the documentation and education (the living style guide presenting vocabulary, syntax, and rationale with worked examples and anti-patterns per the documentation traditions; the decision-support tools including selection wizards and checklists encoding the course frameworks as practical aids; the onboarding and literacy programs building organizational fluency in the visual language, from the competency traditions); and the system evolution strategy (the periodic review cadence where cultural shifts, audience changes, and research updates feed systematic revision, particularly the color and symbol lexicons from sections 9 and 10; the research integration pipeline where new perceptual and semiotic findings enter system standards through evaluation; the multi-brand and multi-product federation where subsystems inherit core semantics while carrying brand-specific surface variation, the dialect architecture at organizational scale) as the operations layer; the system-building journey — the implementation path: the audit and baseline phase (the existing-artifact inventory and semiotic audit cataloging current sign usage, inconsistencies, and collisions using the analysis methods of sections 1 through 3; the audience comprehension baseline measuring what current artifacts actually communicate before system investment; the quick-win extraction where worst inconsistencies receive immediate correction building momentum and demonstrating value); the foundation construction phase (the core vocabulary definition covering color, type, icons, and encoding standards first as the highest-leverage consistency layer; the syntax codification capturing existing good practice as explicit rules before imposing new ones, the descriptive-then-prescriptive sequence; the pilot application where representative artifacts adopt the emerging system and feedback iteration, preventing ivory-tower standards from section 14 governance anti-patterns of the accessibility course); the rollout and adoption phase (the migration sequencing where high-visibility and high-volume artifacts convert first maximizing consistency perception; the tooling investment where templates, components, and generators embed system compliance into production workflows rather than relying on discipline alone; the adoption support through office hours, reviews, and contribution channels from the community traditions); the maturity and sustainment phase (the governance institutionalization where review, measurement, and evolution become standing operations; the knowledge preservation where system rationale survives staff turnover through documentation discipline; the value demonstration where consistency, comprehension, efficiency, and risk reduction outcomes justify continued investment to organizational leadership); and the scale-context adaptation (the small-team lightweight systems where convention documents and shared components suffice without heavy governance; the enterprise federation where multiple product lines coordinate through core inheritance with local dialects; the open-source and public systems where community contribution and transparency shape governance models at awareness from the ecosystem traditions) as the journey layer; and the section anti-patterns — the failure library: the vocabulary-without-semantics, governing visual forms while meaning assignments drift and collide, remedied by the meaning maintenance systems; the ivory-tower system, building standards disconnected from production reality and audience evidence, remedied by the pilot-application and comprehension-monitoring discipline; the exception-erosion, approved deviations accumulating until the system governs nothing, remedied by the registry review and sunset enforcement; the consistency-suffocation, enforcing uniformity where dialect variation serves audiences better, remedied by the boundary and dialect architecture; the undocumented-rationale, shipping rules without the reasoning that makes them defensible and adaptable, remedied by the decision documentation requirements; the tooling-absence, relying on human discipline where templates and generators could embed compliance, remedied by the production integration investment; the frozen-language, treating the system as finished while audiences, culture, and research move, remedied by the evolution strategy and review cadence; and the audit-omission, building systems without baseline measurement so improvement remains unproven, remedied by the measurement and health monitoring practices with detection methods as the diagnostic.
+
+Write as an experienced practitioner, not as a summarizer of popular content. Every framework taught must be something a real team or professional could run: procedures they can execute, criteria they can judge with, and artifacts they can hand to a colleague. Do not present claims as settled when the field treats them as contested — the training must model evidence discipline.
+
+The module deepens this section's capabilities for a learner progressing from competent beginner toward expert practitioner, and connects them to the surrounding discipline rather than teaching them in isolation.
+
+## Use Cases
+
+### Full learning module
+When asked for a comprehensive module on this topic:
+1. Scope audience, prerequisites, duration, and discipline mix.
+2. Build the evidence base from the authoritative sources below.
+3. Write the full progressive module from the template.
+4. Include all exercises with model solutions and all gate checklists.
+5. Validate against the gate below before delivery.
+
+### Condensed workshop
+When asked for a one-day or half-day workshop:
+1. Prioritize the units that match where the group is stuck.
+2. Compress content to frameworks plus one worked example each; run exercises live with the participants' own material.
+3. Leave behind the relevant checklists as job aids.
+
+### Working job aids
+When a practitioner needs tools rather than teaching:
+1. Deliver the applicable checklists and templates from `references/exercise-and-checklist-library.md`, customized to their situation.
+2. Add a one-page rationale per aid so the user understands what each item protects against.
+
+## Core Output Requirements
+
+- Deliverables are Markdown documents: the module, exercise sets with model solutions, and checklists. No placeholders, no "TODO" sections.
+- Ground content in authoritative sources:
+- The graphical-semiology canon (the Bertin Semiology of Graphics tradition: retinal variables, the levels of reading, and the graphic information system)
+- The semiotics foundations (the Saussure sign-system and Peirce icon-index-symbol traditions, the Barthes rhetoric-of-the-image analysis, the Kress-van-Leeuwen visual-grammar lineage)
+- The metaphor and cognition literature (the Lakoff-Johnson conceptual-metaphor tradition, the Fauconnier-Turner conceptual-blending theory, the visual-metaphor research from design and communication studies)
+- The visualization-encoding theory (the Munzner nested-model and Mackinlay expressiveness-effectiveness traditions connecting semiotics to modern visualization science)
+- The pictogram and icon design tradition (the Neurath Isotype lineage, the Otl-Aicher and Olympic-pictogram history, the modern icon-system design literature)
+- The color-culture and cross-cultural-communication literature (the color-meaning traditions across cultures, the international-symbol standards, the localization design practices)
+- The visual-rhetoric and information-aesthetics literature (the Tufte chartjunk-and-data-ink tradition, the persuasion-and-decorative-figure analysis from the rhetorical canon)
+- Maintain an evidence ledger while writing: every factual claim or number is either sourced, flagged as disputed/popular account, or omitted. Never invent statistics, studies, or citations.
+- Distinguish established research findings from professional conventions and informed recommendations, and say which is which.
+- Explain each specialized term in clear language on first use.
+
+## Module Development Workflow
+
+### Phase 1 — Scope and audience
+Determine delivery mode (full module / workshop / job aids), learner background, duration, and whether learners bring their own material to work on. Record these choices; they drive depth allocation in Phase 3.
+
+### Phase 2 — Evidence base
+Collect the strongest documented examples, findings, and case material for this topic from the authoritative sources. Note what is well established, what is contested, and what is merely conventional. Verify any numbers before publishing them.
+
+### Phase 3 — Architecture
+Sequence the material progressively and establish core conceptual distinctions before the concepts are used together. Suggested unit sequence:
+
+1. Unit 1
+
+### Phase 4 — Write the units
+For each unit follow the internal structure: teach the framework → show a worked example (weak / improved / professional versions where useful) → connect back to the surrounding discipline → state trade-offs explicitly. Use `references/domain-content-map.md` as the unit-by-unit source of scope, bullets, and evidence guidance.
+
+### Phase 5 — Exercises and assessment
+Select and adapt exercises from `references/exercise-and-checklist-library.md`. Adapt scenarios to the audience's domain. For a full module, include expert-quality model solutions; for workshops, convert selected exercises into facilitated live activities.
+
+### Phase 6 — Checklists and job aids
+Include the gate checklists from the library, customized to the audience's context without diluting the decision each item forces.
+
+### Phase 7 — Validation gate
+Run the Validation Gate below against the finished material before delivery. Fix failures; do not ship and caveat.
+
+## Module Template
+
+ALWAYS use this exact template for full modules:
+
+```markdown
+# Building Semiotic Design Systems: Coherent Visual Languages at Scale [— audience/context subtitle]
+
+## Who This Module Is For
+## Prerequisites
+## Learning Outcomes
+## Unit 1 — Unit 1
+## Integrated Capstone
+## Practical Exercises
+## Professional Checklists
+## Sources and Evidence Notes
+```
+
+Each unit internally follows: framework → worked example(s) → disciplinary connection → trade-offs.
+
+## Writing Standards
+
+Throughout the material, prioritize language that is:
+
+* Precise without becoming jargon-heavy
+* Practical without discarding rigor
+* Honest about limitations and contested findings without being defeatist
+* Concrete — anchored in real cases, real artifacts, and verifiable numbers
+* Progressive from fundamentals to expert judgment
+
+Where a recommendation depends on context, explain the trade-off rather than presenting an absolute rule.
+
+## Validation Gate
+
+Before delivery, verify:
+
+### Content
+- all units present with correct depth for the scoped audience
+- core distinctions established before they are used together
+- every taught capability has a usable framework, not just an explanation
+
+### Evidence
+- every claim and number is sourced or explicitly flagged as disputed
+- no invented statistics, studies, dates, or citations anywhere
+- sources are authoritative; no SEO-farm or marketing claims presented as fact
+
+### Capability
+- each absorbed capability (6 in this section) is covered by teaching content AND at least one exercise with evaluation criteria
+- exercises have model solutions in full-module mode
+
+### Artifacts
+- all gate checklists included and actionable as written
+- template structure followed; no placeholder sections
+
+### Quality
+- trade-offs stated wherever recommendations are context-dependent
+- terminology explained on first use
+- reads as practitioner-written, not generic AI advice
+
+## Anti-Patterns
+
+Avoid: Private symbolism — inventing visual metaphors that make sense only to their designer, shipping graphic languages readers must decode by trial, legend, and guesswork; Cultural blindness — assuming colors, gestures, icons, and metaphors carry universal meaning, then discovering red means mourning in one audience and danger in another; Decoration creep — layering visual richness until metaphor and ornament compete with data, reviving the chartjunk failures the Tufte tradition documented; Jargon without craft — reciting signifier-signified-icon-index-symbol vocabulary in design reviews while producing no better encodings than intuition alone; Mixed-metaphor systems — combining incompatible visual languages within one product (liquid fills beside bar stacks beside physical gauges) so readers relearn semantics per chart; exercises without evaluation criteria; modules that stop at inspiration without a single decision the learner can now make better; and any content that overstates certainty beyond what the evidence supports.
+
+## Decision Heuristic
+
+When allocating depth under time or length limits, ask:
+
+1. Where will this audience actually stall in practice?
+2. Which unit protects the most value if taught well?
+3. Can the learner run the framework tomorrow without me?
+4. Is every example doing work a plain sentence could not?
+5. What would a skeptical domain expert say about this material?
+
+If two topics compete for space, keep the one that changes a decision.
+
+## Final Principle
+
+The goal is not more content about Semiographics and visual metaphor. The goal is that a practitioner could take this material and perform: Build semiotic design systems through the visual language concept (vocabulary-syntax-semantics framing with consistency-as-code-building principle, audit omission failures — with the same evidence discipline the field's best practitioners use. The module must function simultaneously as a learning resource, a practical reference, and a working methodology.
+
+## Bundled References
+
+Read `references/domain-content-map.md` during Phases 3–4 for the unit-by-unit content map: scope statements, teaching bullets, evidence anchors, and trade-off prompts.
+
+Read `references/exercise-and-checklist-library.md` during Phases 5–6 for the ready-to-adapt exercises and the professional gate checklists.
