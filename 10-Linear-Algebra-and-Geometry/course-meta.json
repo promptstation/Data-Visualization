@@ -1,0 +1,24 @@
+{
+  "course_number": 10,
+  "course_title": "Linear Algebra & Geometry for Visualization",
+  "folder": "10-Linear-Algebra-and-Geometry",
+  "discipline_framing": "The mathematical engine of graphics — vectors, matrices, transformations, projections, and geometry mastered for coordinate systems, camera mathematics, layout algorithms, and the linear-algebraic core of data visualization itself",
+  "domain_short": "Linear algebra and geometry",
+  "audience": "Visualization engineers and graphics programmers who use transformations, projections, and matrix decompositions daily but need the deep mathematical fluency to derive, debug, and extend rendering, layout, and dimensionality systems rather than copy formulas",
+  "sources": [
+    "The linear-algebra canon at practitioner depth (the Strang-style matrix-factorization and vector-space traditions with the 3Blue1Brown-lineage geometric intuition emphasis)",
+    "The computer-graphics mathematics tradition (the transformation-pipeline, projection, and quaternion literature from the graphics-textbook canon)",
+    "The computational-geometry literature (the convex-hull, Delaunay-Voronoi, triangulation, and intersection traditions behind layout and spatial algorithms)",
+    "The matrix-decomposition applications (the SVD, eigenvalue, and PCA lineage connecting linear algebra to dimensionality reduction and data analysis)",
+    "The numeric-computing documentation (the GLM, gl-matrix, ndarray, and NumPy-lineage library materials for practical computation)",
+    "The numerical-stability and floating-point literature at practitioner depth (the precision, conditioning, and accumulation-error traditions)",
+    "The projection-and-map-mathematics traditions (the cartographic projection mathematics connecting to the geospatial discipline)"
+  ],
+  "pitfalls": [
+    "Formula-copying without geometric intuition — applying transformation matrices and decompositions as incantations, unable to diagnose why a projection inverts, a quaternion gimbal-flips, or an SVD sign-flips between runs",
+    "Composition-order blindness — multiplying transformation matrices in the wrong order (rotate-then-translate versus translate-then-rotate) and debugging the resulting geometry archaeologically instead of algebraically",
+    "Row-versus-column and handedness chaos — mixing conventions across libraries and platforms (D3 versus WebGL versus NumPy), producing mirrored, transposed, or silently wrong results",
+    "Floating-point naivete — accumulating transformation error across long matrix chains, subtracting nearly-equal large coordinates, and ignoring conditioning until jitter and drift destroy the render",
+    "SVD-eigendecomposition mystification — treating dimensionality reduction and layout mathematics as black boxes, so the scree-plot, sign, rotation, and rank decisions go unexamined"
+  ]
+}
