@@ -1,0 +1,24 @@
+{
+  "course_number": 8,
+  "course_title": "Interactive Latency & Performance Tuning",
+  "folder": "08-Interactive-Latency-and-Performance-Tuning",
+  "discipline_framing": "Responsiveness engineering for interactive visualizations — frame-rate optimization, debounce-throttle discipline, and sub-100ms feedback loops mastered through measurement-driven tuning of the full input-to-pixel pipeline",
+  "domain_short": "Latency and performance",
+  "audience": "Visualization engineers and front-end developers whose interactive charts, dashboards, and maps must feel instant — teams fighting janky tooltips, laggy filters, stuttering zooms, and dashboard loads that lose user trust",
+  "sources": [
+    "The Nielsen-Miller response-time limits tradition (0.1s instantaneous, 1s uninterrupted flow, 10s attention ceiling) with the RAIL performance model documentation",
+    "The web-vitals initiative and Core Web Vitals documentation (INP, LCP, CLS definitions, measurement, and thresholds) with the Chrome performance-panel and DevTools protocol materials",
+    "The requestAnimationFrame, Long Tasks, Long Animation Frames (LoAF), Event Timing, and Performance Observer API specifications with MDN guidance",
+    "The debounce-throttle literature from the underscore-lodash tradition through modern input-handling practice",
+    "The rendering-pipeline documentation (style-layout-paint-composite stages, layer promotion, and main-thread architecture) from browser-engine materials",
+    "The web-workers, OffscreenCanvas, SharedArrayBuffer, and cache-API documentation for offloading and caching architectures",
+    "The perceived-performance research tradition (progress indicators, skeleton screens, optimistic UI, and active-wait findings) at practitioner depth"
+  ],
+  "pitfalls": [
+    "Optimizing without measuring — guess-driven tuning of the wrong bottleneck; the profile-first discipline violated while effort burns on micro-optimizations that move no user-perceived metric",
+    "Debounce-throttle cargo cult — applying delay patterns blindly: debouncing what needs instant feedback, throttling away gesture smoothness, or leaving high-frequency pointer events unbatched against the render loop",
+    "Average-latency illusion — reporting mean response times that hide the p95-p99 tail where real users experience the jank; percentile-blind performance claims",
+    "Main-thread monolith — running parse, compute, layout, and render serially on the main thread, blocking input handling; the offloading and yielding discipline absent",
+    "Perceived-performance neglect — chasing milliseconds while shipping blank waits: no optimistic feedback, no progressive rendering, no skeleton states, so measured-fast still feels slow"
+  ]
+}
