@@ -1,0 +1,24 @@
+{
+  "course_number": 5,
+  "course_title": "Advanced SVG & DOM Manipulation: D3.js and Modern Frameworks",
+  "folder": "05-Advanced-SVG-and-DOM-Manipulation",
+  "discipline_framing": "Absolute mastery of D3.js — the gold standard for custom web-based data visualization — including advanced SVG craft, the data-join mental model, layouts and transitions, and integration with React, Vue, and Svelte",
+  "domain_short": "D3 and SVG",
+  "audience": "Front-end engineers and visualization developers building bespoke, interactive, accessible chart systems in the browser — from one-off editorial graphics to production component libraries in modern frameworks",
+  "sources": [
+    "Bostock's D3 documentation and Observable notebooks — the data-join, selection, scale, shape, layout, and transition canon from the library's author",
+    "The SVG 1.1 and SVG 2 specifications with MDN SVG reference for paths, transforms, filters, masks, and clipping",
+    "Murray's Interactive Data Visualization for the Web (D3 book lineage) and Nago's D3-tip-style community pattern literature for the pedagogical tradition",
+    "Observable Plot documentation as the higher-level grammar-of-graphics sibling in the D3 ecosystem",
+    "React, Vue, and Svelte official documentation on refs, lifecycle, reactivity, and third-party-DOM-library integration patterns",
+    "The W3C WAI SVG accessibility guidance and ARIA authoring practices for accessible graphics",
+    "Perceptual-edge and Few-lineage chart-design doctrine plus the documented SVG performance-ceiling studies informing the canvas-hybrid decision"
+  ],
+  "pitfalls": [
+    "Fighting the data join — imperative append-and-update code ignoring enter-update-exit semantics, producing duplicated, orphaned, or stale elements as data changes",
+    "Framework double-ownership — letting both React/Vue/Svelte and D3 mutate the same DOM subtree, producing render conflicts, leaked listeners, and irreproducible state bugs",
+    "SVG scale blindness — pushing tens of thousands of nodes into the DOM where style recalculation and layout costs collapse frame rates, ignoring the documented element-count ceiling",
+    "Transition choreography chaos — animating everything with uncoordinated durations so comparisons become impossible and motion carries no object-continuity information",
+    "Inaccessible-by-default graphics — SVG shipped without titles, descriptions, focusable alternatives, or data-table fallbacks, excluding screen-reader and keyboard users entirely"
+  ]
+}
