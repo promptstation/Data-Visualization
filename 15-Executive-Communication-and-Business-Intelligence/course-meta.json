@@ -1,0 +1,24 @@
+{
+  "course_number": 15,
+  "course_title": "Executive Communication & Business Intelligence",
+  "folder": "15-Executive-Communication-and-Business-Intelligence",
+  "discipline_framing": "The decision-making capstone of the data visualization specialist discipline — where dashboards, briefings, reports, and BI systems meet executive audiences: the structured-argument craft, measurement-system design, presentation discipline, and trust governance that convert analysis into organizational decisions",
+  "domain_short": "Executive communication and business intelligence",
+  "audience": "Data visualization specialists, BI analysts, and data-literate professionals who produce dashboards and analyses well but need the executive-communication craft and business-intelligence system literacy to drive decisions at leadership level rather than deliver artifacts nobody acts on",
+  "sources": [
+    "The structured-business-communication canon (the Minto Pyramid Principle tradition, the consulting-firm memo and brief lineage, the BLUF and executive-summary conventions from the professional-communication literature)",
+    "The dashboard design literature (the Stephen Few information-dashboard-design tradition, the KPI and scorecard systems from the Kaplan-Norton balanced-scorecard lineage, the gauge-and-traffic-light critique traditions)",
+    "The business-intelligence systems literature (the Kimball dimensional-modeling heritage, the modern-data-stack and semantic-layer traditions, the self-service-BI and governance frameworks from the DAMA and industry canon)",
+    "The data-storytelling-for-business tradition (the storytelling-with-data lineage, the presentation-design canon including the Tufte cognitive-style analysis, the slide-craft literature)",
+    "The measurement-systems literature (the OKR and metrics-tree traditions, the vanity-metric and Goodhart's-law critiques, the metric-design research from the analytics-community canon)",
+    "The uncertainty-and-risk-communication literature (the confidence-language conventions, the IPCC-style probability scales, the forecast-communication research from the decision-science traditions)",
+    "The data-culture and literacy literature (the data-governance frameworks, the trust-and-quality systems, the organizational data-literacy program traditions)"
+  ],
+  "pitfalls": [
+    "Buried-lede analysis — presenting methodology and buildup first while executives wait for the recommendation, violating the answer-first structure decision audiences actually require",
+    "Dashboard christmas-tree — every KPI, gauge, and traffic light competing for attention until the display answers no question and drives no action, the monitoring-theater failure",
+    "Metric-without-context — reporting numbers bare of comparison, trend, target, and denominator so leaders guess at meaning and guess wrong",
+    "Deck-bound communication — shipping slide walls of un-narrated charts in place of argument, then blaming the audience for not engaging with the analysis",
+    "Trust erosion through overclaim — confident language on shaky data burning credibility that every future communication pays for, the compounding interest of overstatement"
+  ]
+}

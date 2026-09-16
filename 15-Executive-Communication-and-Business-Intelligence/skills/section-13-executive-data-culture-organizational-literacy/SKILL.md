@@ -1,0 +1,166 @@
+---
+name: section-13-executive-data-culture-organizational-literacy
+description: Develop comprehensive, professional-level learning modules and training materials on data Culture and Organizational Literacy — Building the Data-Driven Organization within Executive Communication & Business Intelligence — build data culture through foundations (shared-values definition with culture-capability distinction, maturity spectrum self-assessment, dimension analysis across decision-honesty-curiosity-accountability-literacy, diagnostic methods with decision archaeology, change mechanics through.... Use this skill whenever the user asks to create, teach, or deepen training on culture, organizational, literacy, building, driven, organization, Executive communication and business intelligence, or requests workshops, lessons, curricula, job aids, or expert instruction in this area — even when the word “module” is never used.
+compatibility: Any environment that can write Markdown files; benefits from web research access for authoritative sources; no external tools or packages required.
+metadata:
+  author: Promptstation skill-building pipeline (Data Visualization course 15, section 13)
+  version: 1.0.0
+  category: professional-education
+---
+
+# Data Culture and Organizational Literacy: Building the Data-Driven Organization — Professional Training
+
+## Mission
+
+Produce professional-grade learning modules and training materials on **data Culture and Organizational Literacy: Building the Data-Driven Organization** within The decision-making capstone of the data visualization specialist discipline — where dashboards, briefings, reports, and BI systems meet executive audiences: the structured-argument craft, measurement-system design, presentation discipline, and trust governance that convert analysis into organizational decisions.
+
+Subject scope: Covers the culture-building discipline where individual communication craft scales into organizational capability: the data culture foundations — what data-driven means: the data-culture concept (the shared-values-and-practices definition where evidence-based decision making becomes organizational default rather than specialist exception, from the management and analytics traditions; the culture-versus-capability distinction where tools and skills enable but values and norms determine whether data actually drives decisions; the maturity-spectrum thinking where organizations progress from intuition-dominant through data-informed to data-driven and experiment-embedded stages with honest self-assessment; the leadership-dependency principle where culture change requires executive modeling making this section's content a communication task for the specialists who live it); the culture-dimension analysis (the decision-norms dimension where how choices actually get made reveals whether data informs, decorates, or gets ignored; the honesty-and-psychological-safety dimension where bad news, errors, and dissent travel freely per section 11's messenger-risk analysis; the curiosity-and-learning dimension where questions and exploration receive encouragement rather than impatience; the accountability dimension where claims face verification and commitments face tracking per section 12's trust systems; the literacy-distribution dimension where data comprehension spreads beyond specialist populations per the training systems of section 10); the culture-diagnostic methods (the assessment-instruments where surveys, interviews, and observation measure data-culture dimensions across organizational units; the decision-archaeology practice where past decisions get examined for data usage patterns revealing actual versus stated culture; the artifact-ethnography where dashboards, reports, and meeting behaviors get studied as cultural evidence per section 1's ecosystem analysis; the maturity-assessment frameworks where structured models locate organizational position with improvement-path identification); the culture-change-mechanics (the leadership-modeling-leverage where executive data behaviors cascade through organizational imitation per the change traditions; the ritual-and-routine-design where recurring practices including reviews, metrics, and retrospectives encode culture operationally per section 14's cadence systems; the incentive-alignment where recognition, promotion, and reward systems reinforce or undermine stated data values; the story-and-symbol-management where celebrated cases and cautionary tales carry cultural norms per section 9's narrative power); and the specialist's culture role (the exemplar-function where data professionals' own practices demonstrate standards others adopt; the coaching-and-consulting reach where one-on-one capability building complements formal training per section 10's consulting patterns; the systems-design influence where artifact and platform design shapes behavior through structure per the choice-architecture traditions; the patience-discipline where culture development operates on multi-year horizons resisting quarterly-thinking frustration) as the foundations layer; the data literacy systems — building organizational comprehension: the literacy-framework design (the competency-model development where data literacy gets decomposed into knowledge, skill, and disposition components by role and level, extending section 10's curriculum architecture into organizational frameworks; the role-based-literacy-profiles where executives, managers, specialists, and general staff carry differentiated literacy expectations; the consumption-production-spectrum where literacy spans reading data correctly through creating analyses with the population distribution assessed honestly; the disposition-inclusion where curiosity, skepticism, and honesty attitudes get recognized as literacy components beyond technical skill); the literacy-assessment systems (the baseline-measurement where organizational literacy gets assessed through instruments, observation, and artifact review per the diagnostic methods; the progress-tracking where literacy development receives measurement across program cycles per section 10's enablement analytics; the gap-prioritization where literacy deficits get ranked by decision impact focusing investment where comprehension failures cost most; the assessment-validity-care where literacy measurement avoids testing tool-button-knowledge in place of genuine comprehension); the learning-ecosystem construction (the formal-program-architecture where courses, workshops, and certifications provide structured development per section 10's training craft; the informal-learning-cultivation where communities, showcases, and peer learning carry the majority of capability development per the learning-science traditions; the embedded-learning-design where literacy develops through supported real work rather than classroom abstraction alone; the resource-library-curation where documentation, patterns, and exemplars remain discoverable and current per section 10's documentation systems); the numeracy-and-interpretation foundations (the statistical-literacy-essentials where variation, sampling, correlation-causation, and base-rate comprehension reach general populations per the statistical traditions of the analysis courses; the visualization-literacy-development where chart reading, encoding understanding, and manipulation-recognition spread beyond specialists per the visualization courses' public-mission dimensions; the critical-consumption-skills where source evaluation, context demands, and uncertainty recognition protect against data deception per section 12's transparency reciprocity; the communication-literacy where presenting and writing with data receives instruction per sections 2, 6, and 7's crafts democratized); and the literacy-program-governance (the ownership-and-funding models where literacy programs receive sustained resourcing beyond champion-dependent survival; the strategy-alignment where literacy investment connects to organizational capability priorities rather than generic training; the vendor-and-partner-integration where external training providers complement internal capability per section 10's ecosystem literacy; the program-evaluation-discipline where literacy interventions face outcome assessment with honest attribution per section 3's causality cautions) as the literacy layer; the organizational rituals — the operating rhythm of data culture: the review-ritual design (the business-review-cadence architecture where recurring data reviews at organizational levels create the decision rhythm per section 6's periodic systems; the metrics-review-meeting craft where numbers structure discussion through preparation, commentary, and action-capture disciplines per section 8's meeting skills; the experiment-and-learning-reviews where test results and failures receive structured examination per the experimentation traditions; the strategy-and-planning-rituals where data anchors periodic strategic conversations with the forecast disciplines of section 11); the decision-practice-rituals (the evidence-requirement-norms where significant decisions carry documented data support per section 6's brief formats; the pre-mortem-and-red-team-practices where decisions face structured challenge before commitment per the decision-quality traditions; the decision-journaling where choices and expectations get recorded enabling outcome learning per the calibration systems of section 11; the decision-review-retrospectives where significant choices get examined for process quality independent of outcome per section 1's decision-quality distinction); the learning-and-improvement rituals (the blameless-post-mortem discipline where failures convert to learning per section 11's organizational-learning systems; the retrospective-cadence where teams examine their data practices regularly with improvement commitments; the knowledge-sharing-forums where analysis, patterns, and lessons circulate through presentations and documentation per section 10's community systems; the celebration-rituals where data-driven wins get visible recognition reinforcing culture through positive exemplars); the ritual-quality-management (the ritual-decay-awareness where recurring ceremonies degrade into checkbox routines requiring periodic renewal or retirement per section 4's zombie disciplines; the participation-equity where rituals distribute voice across attendees rather than serving dominant personalities per section 8's facilitation; the preparation-cost-calibration where ritual demands balance thoroughness against sustainability; the ritual-portfolio-coherence where meeting and review systems interconnect without redundant coverage per section 14's operations); and the crisis-ritual-activation (the incident-response-data-practices where crises trigger intensified monitoring and communication per section 11's escalation systems; the war-room-analytics where rapid analysis supports unfolding situations with the accuracy disciplines maintained under pressure; the post-crisis-learning-integration where incident data feeds permanent practice improvement) as the rituals layer; the change management for data transformation — leading the evolution: the transformation-program anatomy (the data-culture-initiative design where literacy, tooling, governance, and ritual changes integrate into coherent programs rather than isolated projects; the phased-evolution-planning where quick wins build momentum while structural changes develop per the change traditions; the stakeholder-map-management where sponsors, resistors, champions, and bystanders receive differentiated engagement per section 8's political navigation; the resistance-understanding where data transformation threatens established expertise, power structures, and comfortable intuitions requiring empathy alongside strategy); the adoption-science application (the diffusion-patterns-awareness where innovations spread through populations in predictable adopter sequences informing rollout strategy per section 10's gradual discipline; the behavior-change-mechanics where capability, motivation, and opportunity jointly determine adoption requiring multi-lever intervention; the habit-formation-design where new data practices attach to existing routines reducing adoption friction per the ritual-design traditions; the social-proof-engineering where visible peer adoption accelerates spread through network effects per the community patterns); the executive-sponsorship cultivation (the sponsor-education where executives understand their modeling role and receive support for visible data behaviors; the value-demonstration-strategy where transformation progress connects to business outcomes sponsors can champion per section 10's business-case disciplines; the coalition-maintenance where multiple leaders across functions sustain transformation beyond single-sponsor dependency; the succession-planning where transformation survives leadership changes through embedded systems rather than personal commitment); the measurement-of-transformation (the adoption-and-usage-metrics where tool usage, ritual participation, and artifact consumption receive tracking per section 10's program analytics; the capability-progression-measurement where literacy assessment tracks development per the literacy systems; the decision-quality-indicators where evidence usage in decisions gets sampled and assessed per the diagnostic methods; the outcome-attribution-honesty where business improvements face the causality disciplines preventing transformation overclaim per section 3's attribution limits); and the sustainability-engineering (the system-embedding where transformation outcomes survive through governance, platforms, and rituals rather than program teams per section 5's center-of-excellence patterns; the continuous-improvement-cadence where data culture receives ongoing attention through review cycles; the new-member-onboarding where organizational data practices transmit to newcomers through structured introduction; the culture-regression-vigilance where crisis, turnover, and success-complacency erode gains requiring maintenance attention) as the change layer; and the section anti-patterns — the failure library: the tooling-as-culture-substitute, deploying platforms and dashboards while decision norms remain intuition-dominant, producing unused instrumentation, remedied by the culture-dimension analysis and ritual design; the literacy-classroom-illusion, training completion certificates mistaken for comprehension while workplace interpretation failures persist, remedied by the assessment-validity care and embedded-learning design; the champion-dependency, culture programs surviving on individual enthusiasm without systems until transfers and departures collapse progress, remedied by the sustainability engineering; the ritual-zombie-accumulation, review meetings persisting as calendar furniture where data gets displayed but never influences decisions, remedied by the ritual-quality management; the transformation-overclaim, program narratives crediting data initiatives with unrelated business improvements until credibility erodes, remedied by the outcome-attribution honesty; the resistance-misreading, treating opposition as ignorance to be educated rather than legitimate interest to be negotiated, remedied by the resistance-understanding empathy; the quick-win-only strategy, showcase projects without structural change leaving culture unchanged beneath polished surfaces, remedied by the phased-evolution planning; and the executive-exemption, leadership demanding data-driven practice while exempting its own decisions from evidence norms, remedied by the leadership-modeling leverage and sponsorship cultivation with detection methods as the diagnostic.
+
+Write as an experienced practitioner, not as a summarizer of popular content. Every framework taught must be something a real team or professional could run: procedures they can execute, criteria they can judge with, and artifacts they can hand to a colleague. Do not present claims as settled when the field treats them as contested — the training must model evidence discipline.
+
+The module deepens this section's capabilities for a learner progressing from competent beginner toward expert practitioner, and connects them to the surrounding discipline rather than teaching them in isolation.
+
+## Use Cases
+
+### Full learning module
+When asked for a comprehensive module on this topic:
+1. Scope audience, prerequisites, duration, and discipline mix.
+2. Build the evidence base from the authoritative sources below.
+3. Write the full progressive module from the template.
+4. Include all exercises with model solutions and all gate checklists.
+5. Validate against the gate below before delivery.
+
+### Condensed workshop
+When asked for a one-day or half-day workshop:
+1. Prioritize the units that match where the group is stuck.
+2. Compress content to frameworks plus one worked example each; run exercises live with the participants' own material.
+3. Leave behind the relevant checklists as job aids.
+
+### Working job aids
+When a practitioner needs tools rather than teaching:
+1. Deliver the applicable checklists and templates from `references/exercise-and-checklist-library.md`, customized to their situation.
+2. Add a one-page rationale per aid so the user understands what each item protects against.
+
+## Core Output Requirements
+
+- Deliverables are Markdown documents: the module, exercise sets with model solutions, and checklists. No placeholders, no "TODO" sections.
+- Ground content in authoritative sources:
+- The structured-business-communication canon (the Minto Pyramid Principle tradition, the consulting-firm memo and brief lineage, the BLUF and executive-summary conventions from the professional-communication literature)
+- The dashboard design literature (the Stephen Few information-dashboard-design tradition, the KPI and scorecard systems from the Kaplan-Norton balanced-scorecard lineage, the gauge-and-traffic-light critique traditions)
+- The business-intelligence systems literature (the Kimball dimensional-modeling heritage, the modern-data-stack and semantic-layer traditions, the self-service-BI and governance frameworks from the DAMA and industry canon)
+- The data-storytelling-for-business tradition (the storytelling-with-data lineage, the presentation-design canon including the Tufte cognitive-style analysis, the slide-craft literature)
+- The measurement-systems literature (the OKR and metrics-tree traditions, the vanity-metric and Goodhart's-law critiques, the metric-design research from the analytics-community canon)
+- The uncertainty-and-risk-communication literature (the confidence-language conventions, the IPCC-style probability scales, the forecast-communication research from the decision-science traditions)
+- The data-culture and literacy literature (the data-governance frameworks, the trust-and-quality systems, the organizational data-literacy program traditions)
+- Maintain an evidence ledger while writing: every factual claim or number is either sourced, flagged as disputed/popular account, or omitted. Never invent statistics, studies, or citations.
+- Distinguish established research findings from professional conventions and informed recommendations, and say which is which.
+- Explain each specialized term in clear language on first use.
+
+## Module Development Workflow
+
+### Phase 1 — Scope and audience
+Determine delivery mode (full module / workshop / job aids), learner background, duration, and whether learners bring their own material to work on. Record these choices; they drive depth allocation in Phase 3.
+
+### Phase 2 — Evidence base
+Collect the strongest documented examples, findings, and case material for this topic from the authoritative sources. Note what is well established, what is contested, and what is merely conventional. Verify any numbers before publishing them.
+
+### Phase 3 — Architecture
+Sequence the material progressively and establish core conceptual distinctions before the concepts are used together. Suggested unit sequence:
+
+1. Unit 1
+
+### Phase 4 — Write the units
+For each unit follow the internal structure: teach the framework → show a worked example (weak / improved / professional versions where useful) → connect back to the surrounding discipline → state trade-offs explicitly. Use `references/domain-content-map.md` as the unit-by-unit source of scope, bullets, and evidence guidance.
+
+### Phase 5 — Exercises and assessment
+Select and adapt exercises from `references/exercise-and-checklist-library.md`. Adapt scenarios to the audience's domain. For a full module, include expert-quality model solutions; for workshops, convert selected exercises into facilitated live activities.
+
+### Phase 6 — Checklists and job aids
+Include the gate checklists from the library, customized to the audience's context without diluting the decision each item forces.
+
+### Phase 7 — Validation gate
+Run the Validation Gate below against the finished material before delivery. Fix failures; do not ship and caveat.
+
+## Module Template
+
+ALWAYS use this exact template for full modules:
+
+```markdown
+# Data Culture and Organizational Literacy: Building the Data-Driven Organization [— audience/context subtitle]
+
+## Who This Module Is For
+## Prerequisites
+## Learning Outcomes
+## Unit 1 — Unit 1
+## Integrated Capstone
+## Practical Exercises
+## Professional Checklists
+## Sources and Evidence Notes
+```
+
+Each unit internally follows: framework → worked example(s) → disciplinary connection → trade-offs.
+
+## Writing Standards
+
+Throughout the material, prioritize language that is:
+
+* Precise without becoming jargon-heavy
+* Practical without discarding rigor
+* Honest about limitations and contested findings without being defeatist
+* Concrete — anchored in real cases, real artifacts, and verifiable numbers
+* Progressive from fundamentals to expert judgment
+
+Where a recommendation depends on context, explain the trade-off rather than presenting an absolute rule.
+
+## Validation Gate
+
+Before delivery, verify:
+
+### Content
+- all units present with correct depth for the scoped audience
+- core distinctions established before they are used together
+- every taught capability has a usable framework, not just an explanation
+
+### Evidence
+- every claim and number is sourced or explicitly flagged as disputed
+- no invented statistics, studies, dates, or citations anywhere
+- sources are authoritative; no SEO-farm or marketing claims presented as fact
+
+### Capability
+- each absorbed capability (4 in this section) is covered by teaching content AND at least one exercise with evaluation criteria
+- exercises have model solutions in full-module mode
+
+### Artifacts
+- all gate checklists included and actionable as written
+- template structure followed; no placeholder sections
+
+### Quality
+- trade-offs stated wherever recommendations are context-dependent
+- terminology explained on first use
+- reads as practitioner-written, not generic AI advice
+
+## Anti-Patterns
+
+Avoid: Buried-lede analysis — presenting methodology and buildup first while executives wait for the recommendation, violating the answer-first structure decision audiences actually require; Dashboard christmas-tree — every KPI, gauge, and traffic light competing for attention until the display answers no question and drives no action, the monitoring-theater failure; Metric-without-context — reporting numbers bare of comparison, trend, target, and denominator so leaders guess at meaning and guess wrong; Deck-bound communication — shipping slide walls of un-narrated charts in place of argument, then blaming the audience for not engaging with the analysis; Trust erosion through overclaim — confident language on shaky data burning credibility that every future communication pays for, the compounding interest of overstatement; exercises without evaluation criteria; modules that stop at inspiration without a single decision the learner can now make better; and any content that overstates certainty beyond what the evidence supports.
+
+## Decision Heuristic
+
+When allocating depth under time or length limits, ask:
+
+1. Where will this audience actually stall in practice?
+2. Which unit protects the most value if taught well?
+3. Can the learner run the framework tomorrow without me?
+4. Is every example doing work a plain sentence could not?
+5. What would a skeptical domain expert say about this material?
+
+If two topics compete for space, keep the one that changes a decision.
+
+## Final Principle
+
+The goal is not more content about Executive communication and business intelligence. The goal is that a practitioner could take this material and perform: Build data culture through foundations (shared-values definition with culture-capability distinction, maturity spectrum self-assessment, dimension analysis across decision-honesty-curiosity-accountability-literacy, diagnostic methods with decision archaeology, change mechanics through modeling-rituals-incentives-stories, specialist exemplar role with patience discipline), lead transformation change (program anatomy with phased planning and stakeholder management, adoption science with diffusion and habit design, executive sponsorship cultivation, transformation measurement with attribution honesty, sustainability engineering), and avoid tooling substitutes, classroom illusions, champion dependency, ritual zombies, overclaims, resistance misreading, quick-win-only strategies, and executive exemption failures — with the same evidence discipline the field's best practitioners use. The module must function simultaneously as a learning resource, a practical reference, and a working methodology.
+
+## Bundled References
+
+Read `references/domain-content-map.md` during Phases 3–4 for the unit-by-unit content map: scope statements, teaching bullets, evidence anchors, and trade-off prompts.
+
+Read `references/exercise-and-checklist-library.md` during Phases 5–6 for the ready-to-adapt exercises and the professional gate checklists.
